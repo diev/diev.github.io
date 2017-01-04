@@ -8,14 +8,14 @@ En | [Ru](/ru/resume "Russian language (по-русски)")
 CISO - Chief Information Security Officer at AO «City Invest Bank»  
 St.Petersburg 196158, Russia | Banking
 
-*Currently:* AO «City Invest Bank» http://www.cibank.ru/en/  
-*Before:* ZAO «City Invest Bank», OOO «AviaTransAgency», 
+Currently: [AO «City Invest Bank»](http://www.cibank.ru/en/)  
+Before: ZAO «City Invest Bank», OOO «AviaTransAgency», 
 OOO «Fruit Company «Palma»  
-*Education:* IT Academy Russia, SPbGUAP (LIAP)
+Education: [IT Academy Russia](http://www.academy.it.ru/), SPbGUAP (LIAP)
 
-https://dievdo.ru/  
-https://www.linkedin.com/in/dievdo  
-https://www.facebook.com/dmitrii.evdokimov
+Site: [dievdo.ru](https://diev.github.io/)  
+~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
+Facebook: [facebook.com/dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
 
 Summary
 -------
@@ -154,7 +154,7 @@ July 1998 - September 1989
 
 Projects
 --------
-See a secondary [page](projects.md).
+See a secondary [page](projects).
 
 Certifications
 --------------
@@ -179,12 +179,12 @@ Certificate of professional development.
 (72 hours)
 
 **[St.Petersburg State University of Aerospace 
-Instrumentation](http://suai.ru/), 2000-2001**  
+Instrumentation](http://suai.ru/), 2000 - 2001**  
 Bachelor's degree.  
 552800 "Computer Science and Engineering".
 
 **[St.Petersburg State University of Aerospace 
-Instrumentation](http://suai.ru/), 1987-1992**  
+Instrumentation](http://suai.ru/), 1987 - 1992**  
 Several courses.  
 22.02 "Automated Systems of Information Processing and Control".
 
