@@ -1,0 +1,8 @@
+title: Diev.GitHub.io
+description: Diev's Website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
