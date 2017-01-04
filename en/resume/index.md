@@ -178,7 +178,6 @@ See a secondary [page](/en/projects).
 ## Certifications
 
 * Diploma of professional retraining, 2015. IT Academy Russia. 
-License number 0016478.
 
 ## Education
 
@@ -220,9 +219,8 @@ Several courses.
 
 ## Volunteer Experience
 
-* Member of the haiku society  
-since 2002
+* Member of the haiku society
 
-  *Writing haiku and tanka in Japanese traditions, participation in the drafting 
-of renga and haiga, international translating, consulting services for 
-beginners, participation in juries.*
+  *Since 2002 - writing haiku and tanka in Japanese traditions, participation 
+in the drafting of renga and haiga, international translating, consulting 
+services for beginners, participation in juries.*
