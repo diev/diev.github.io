@@ -5,11 +5,11 @@ En | [Ru](/ru/resume "Russian language (по-русски)")
 
 12 April 1970 (46 years old), married.
 
-CISO - Chief Information Security Officer at AO «City Invest Bank»  
+CISO - Chief Information Security Officer at 
+[AO «City Invest Bank»](http://www.cibank.ru/en/)  
 St.Petersburg 196158, Russia
 
-Present: [AO «City Invest Bank»](http://www.cibank.ru/en/)  
-Before: ZAO «City Invest Bank», OOO «AviaTransAgency», 
+Formerly: ZAO «City Invest Bank», OOO «AviaTransAgency», 
 OOO «Fruit Company «Palma»  
 Education: [IT Academy Russia](http://www.academy.it.ru/), SPbGUAP (LIAP)
 
