@@ -1,4 +1,3 @@
-* Projects: [En](en/projects.md) | [Ru](ru/projects.md)
-* Resume: [En](en/resume.md) | [Ru](ru/resume.md)
-
-https://www.facebook.com/dmitrii.evdokimov
+* Projects | [En](en/projects) | [Ru](ru/projects)
+* Resume | [En](en/resume) | [Ru](ru/resume)
+* [Facebook](https://www.facebook.com/dmitrii.evdokimov)

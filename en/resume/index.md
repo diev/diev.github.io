@@ -1,7 +1,7 @@
 Dmitrii Evdokimov
 =================
 
-En | [Ru](/ru/resume.md "Russian language (по-русски)")
+En | [Ru](/ru/resume "Russian language (по-русски)")
 
 12 April 1970 (46 years old), married.
 

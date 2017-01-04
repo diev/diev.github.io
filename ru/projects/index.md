@@ -1,7 +1,7 @@
 ﻿Проекты
 =======
 
-[En](/en/projects.md "English language (по-английски)") | Ru
+Ru | [En](/en/projects "English language (по-английски)")
 
 [ListXML](http://diev.github.io/ListXML/)
 -----

@@ -1,7 +1,7 @@
 ﻿Projects
 ========
 
-En | [Ru](/ru/resume.md "Russian language (по-русски)")
+En | [Ru](/ru/resume "Russian language (по-русски)")
 
 [ListXML](http://diev.github.io/ListXML/)
 -----
