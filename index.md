@@ -1,3 +1,4 @@
-Projects [En](en/projects) | Проекты [Ru](ru/projects)
-Resume [En](en/resume) | Резюме [Ru](ru/resume)
+[Projects](en/projects) | [Проекты](ru/projects)
+[Resume](en/resume) | [Резюме](ru/resume)
+
 [Facebook](https://www.facebook.com/dmitrii.evdokimov)
