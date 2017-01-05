@@ -1,7 +1,7 @@
 ﻿Евдокимов Дмитрий Леонидович
 ============================
 
-Ru | [En](/en/resume "English language (по-английски)")
+Ru | [En](resume-en "English language (по-английски)")
 
 12 апреля 1970 (46 лет), женат.
 
@@ -13,7 +13,7 @@ Ru | [En](/en/resume "English language (по-английски)")
 ООО «Фруктовая компания «Пальма»  
 Образование: [Академия АйТи](http://www.academy.it.ru/), СПбГУАП (ЛИАП)
 
-Сайт: [dievdo.ru](https://diev.github.io/)  
+Сайт: [dievdo.ru](/)  
 ~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
 Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
 
@@ -39,18 +39,18 @@ Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
 Обслуживание ключевой инфраструктуры. Разработка рекомендаций для персонала 
 и обучение. Разработка программного обеспечения для внутреннего использования.*
 
-* [ListXML](/ListXML)
+* [ListXML](ListXML)
 
   *Интеллектуальная обработка полученного из СВК Банка России, разбор XML и 
 перераспределение по заданным спискам платежей (например, обслуживание по 
 разным тарифам, клиентские и банковские), рассылка оповещений по заданным 
 адресам и критериям: C#.*
 
-* [PTK-PSD Browser](/PTK-PSD-Browser)
+* [PTK-PSD Browser](PTK-PSD-Browser)
 
   *Наглядный просмотр и работа с архивом посылок ПТК ПСД: HTA.*
 
-* [SVK Transport](/SVK-Transport)
+* [SVK Transport](SVK-Transport)
 
   *Прием и отправка платежной XML информации, бинарных информационных и файлов 
 статистики по HTTP протоколу в СВК Банка России: HTA.*
@@ -159,7 +159,7 @@ Visual Basic, Clipper, DBF.*
 
 ## Проекты
 
-На отдельной [странице](/ru/projects).
+На отдельной [странице](projects).
 
 ## Сертификаты
 

@@ -6,3 +6,4 @@ theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
+  - jekyll-sitemap

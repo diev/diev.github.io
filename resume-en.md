@@ -1,7 +1,7 @@
 Dmitrii Evdokimov
 =================
 
-En | [Ru](/ru/resume "Russian language (по-русски)")
+En | [Ru](resume "Russian language (по-русски)")
 
 12 April 1970 (46 years old), married.
 
@@ -13,7 +13,7 @@ Formerly: ZAO «City Invest Bank», OOO «AviaTransAgency»,
 OOO «Fruit Company «Palma»  
 Education: [IT Academy Russia](http://www.academy.it.ru/), SPbGUAP (LIAP)
 
-Site: [dievdo.ru](https://diev.github.io/)  
+Site: [dievdo.ru](/)  
 ~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
 Facebook: [facebook.com/dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
 
@@ -42,18 +42,18 @@ infrastructure. Development of recommendations for personnel to meet
 regulators' requirements. Research, adaptation and implementation of new 
 technologies corresponding to bank strategic profile. Application development.*
 
-* [ListXML](/ListXML)
+* [ListXML](ListXML)
 
   *A parser of XML files of the Cental Bank of Russia to recomposite them 
 according to a set of rules: C#.*
 
-* [PTK-PSD Browser](/PTK-PSD-Browser)
+* [PTK-PSD Browser](PTK-PSD-Browser)
 
   *So-development of a set of lightweight HTA utilities to browse data with the 
 PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels 
 and reports, etc.: HTA.*
 
-* [SVK Transport](/SVK-Transport)
+* [SVK Transport](SVK-Transport)
 
   *So-development of a set of lightweight HTA utilities to exchange data with 
 the SVK system of the Cental Bank of Russia, to monitor the flow of parcels 
@@ -173,7 +173,7 @@ July 1998 - September 1989
 
 ## Projects
 
-See a secondary [page](/en/projects).
+See a secondary [page](projects-en).
 
 ## Certifications
 

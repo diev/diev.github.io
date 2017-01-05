@@ -1,9 +1,9 @@
 ﻿Проекты
 =======
 
-Ru | [En](/en/projects "English language (по-английски)")
+Ru | [En](projects-en "English language (по-английски)")
 
-## [ListXML](http://diev.github.io/ListXML/)
+## [ListXML](ListXML)
 *Интеллектуальная обработка полученного из СВК Банка России, разбор XML и 
 перераспределение по заданным спискам платежей (например, обслуживание по 
 разным тарифам, клиентские и банковские), рассылка оповещений по заданным 
@@ -11,12 +11,12 @@ Ru | [En](/en/projects "English language (по-английски)")
 
 2009 - по настоящее время
 
-## [PTK-PSD Browser](http://diev.github.io/PTK-PSD-Browser/)
+## [PTK-PSD Browser](PTK-PSD-Browser)
 *Наглядный просмотр и работа с архивом посылок ПТК ПСД Банка России: HTA.*
 
 2010 - по настоящее время
 
-## [SVK Transport](http://diev.github.io/SVK-Transport/)
+## [SVK Transport](SVK-Transport)
 *Прием и отправка платежной XML информации, бинарных информационных и файлов 
 статистики по HTTP протоколу в СВК Банка России: HTA.*
 

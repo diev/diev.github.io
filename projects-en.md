@@ -1,21 +1,21 @@
 ﻿Projects
 ========
 
-En | [Ru](/ru/resume "Russian language (по-русски)")
+En | [Ru](projects "Russian language (по-русски)")
 
-## [ListXML](http://diev.github.io/ListXML/)
+## [ListXML](ListXML)
 *A parser of XML files to recomposite them according to a set of rules: C#.*
 
 2009 - Present
    
-## [PTK-PSD Browser](http://diev.github.io/PTK-PSD-Browser/)
+## [PTK-PSD Browser](PTK-PSD-Browser)
 *So-development of a set of lightweight HTA utilities to browse data with the 
 PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels 
 and reports, etc.: HTA.*
 
 2010 - Present
 
-## [SVK Transport](http://diev.github.io/SVK-Transport/)
+## [SVK Transport](SVK-Transport)
 *So-development of a set of lightweight HTA utilities to exchange data with 
 the SVK system of the Cental Bank of Russia, to monitor the flow of parcels 
 and reports, etc.: HTA.*
