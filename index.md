@@ -1,9 +1,9 @@
-# Dmitrii Evdokimov
+# Дмитрий Евдокимов
 
-Personal Website
+Персональный сайт
 
-[En](en "English language (по-английски)") | [Ru](ru "Russian language (по-русски)")
+[En](en "English language (по-английски)") | Ru
 [Projects](projects-en) | [Проекты](projects)
 [Resume](resume-en)     | [Резюме](resume)
 [GitHub](https://github.com/diev) |
-                         | [Facebook](https://www.facebook.com/dmitrii.evdokimov)
+                        | [Facebook](https://www.facebook.com/dmitrii.evdokimov)
