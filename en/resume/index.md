@@ -183,17 +183,17 @@ See a secondary [page](/en/projects).
 
 ### [IT Academy Russia](http://www.academy.it.ru/)
 
-2015  
+* 2015  
 Diploma for the right to carry out professional activities.  
 090104 (075400) "The complex protection of objects of informatization".
 
-*Professional retraining (540 hours) at IT Academy on the program 
+  *Professional retraining (540 hours) at IT Academy on the program 
 "The complex protection of objects of information" with the certificate 
 of the right to professional activities in the field of information security.*
 
 ### [Academy of Information Systems](http://infosystems.ru/)
 
-2009  
+* 2009  
 Certificate of professional development.  
 "Information security with using of encryption (cryptographic) means"  
 
@@ -201,13 +201,11 @@ Certificate of professional development.
 
 ### [St.Petersburg State University of Aerospace Instrumentation](http://suai.ru/)
 
-2000 - 2001  
+* 2000 - 2001  
 Bachelor's degree.  
 552800 "Computer Science and Engineering".
 
-### [St.Petersburg State University of Aerospace Instrumentation](http://suai.ru/)
-
-1987 - 1992  
+* 1987 - 1992  
 Several courses.  
 22.02 "Automated Systems of Information Processing and Control".
 
