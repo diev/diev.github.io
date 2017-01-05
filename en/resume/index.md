@@ -197,7 +197,7 @@ of the right to professional activities in the field of information security.*
 Certificate of professional development.  
 "Information security with using of encryption (cryptographic) means"  
 
-*(72 hours)*
+  *(72 hours)*
 
 ### [St.Petersburg State University of Aerospace Instrumentation](http://suai.ru/)
 
