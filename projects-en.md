@@ -1,4 +1,7 @@
-﻿Projects
+﻿---
+lang: en
+---
+Projects
 ========
 
 En | [Ru](projects "Russian language (по-русски)")

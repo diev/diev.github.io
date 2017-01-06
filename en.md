@@ -1,3 +1,7 @@
+---
+layout: title
+lang: en
+---
 # Dmitrii Evdokimov
 
 Personal Website
