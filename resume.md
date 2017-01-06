@@ -46,11 +46,11 @@ Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
 разным тарифам, клиентские и банковские), рассылка оповещений по заданным 
 адресам и критериям: C#.*
 
-* [PTK-PSD Browser](PTK-PSD-Browser)
+* [PTK-PSD Browser](PTK-PSD-Browser-hta)
 
   *Наглядный просмотр и работа с архивом посылок ПТК ПСД: HTA.*
 
-* [SVK Transport](SVK-Transport)
+* [SVK Transport](SVK-Transport-hta)
 
   *Прием и отправка платежной XML информации, бинарных информационных и файлов 
 статистики по HTTP протоколу в СВК Банка России: HTA.*

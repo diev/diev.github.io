@@ -11,12 +11,12 @@ Ru | [En](projects-en "English language (по-английски)")
 
 2009 - по настоящее время
 
-## [PTK-PSD Browser](PTK-PSD-Browser)
+## [PTK-PSD Browser](PTK-PSD-Browser-hta)
 *Наглядный просмотр и работа с архивом посылок ПТК ПСД Банка России: HTA.*
 
 2010 - по настоящее время
 
-## [SVK Transport](SVK-Transport)
+## [SVK Transport](SVK-Transport-hta)
 *Прием и отправка платежной XML информации, бинарных информационных и файлов 
 статистики по HTTP протоколу в СВК Банка России: HTA.*
 

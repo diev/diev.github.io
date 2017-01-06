@@ -8,14 +8,14 @@ En | [Ru](projects "Russian language (по-русски)")
 
 2009 - Present
    
-## [PTK-PSD Browser](PTK-PSD-Browser)
+## [PTK-PSD Browser](PTK-PSD-Browser-hta)
 *So-development of a set of lightweight HTA utilities to browse data with the 
 PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels 
 and reports, etc.: HTA.*
 
 2010 - Present
 
-## [SVK Transport](SVK-Transport)
+## [SVK Transport](SVK-Transport-hta)
 *So-development of a set of lightweight HTA utilities to exchange data with 
 the SVK system of the Cental Bank of Russia, to monitor the flow of parcels 
 and reports, etc.: HTA.*
