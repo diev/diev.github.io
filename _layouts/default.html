@@ -2,22 +2,18 @@
 <html lang="{{ page.lang | default: "ru" }}">
   {% include head.html %}
   <body>
-    <!--{% include header.html %}-->
     <div class="wrapper">
-      <!--section-->
-        <div id="title">
-          <span class="credits left"><a href="/">Dmitrii Evdokimov's</a></span>
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          {% if site.show_downloads %}
-            <a href="{{ site.github.repository_url }}">Project</a> |
-            <a href="{{ site.github.repository_url }}/releases">Downloads</a>
-          {% endif %}
-        </div>
-        {{ content }}
-      <!--/section-->
+      <div id="title">
+        <span class="credits left">Project by <a href="/">Dmitrii Evdokimov</a></span>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <hr>
+        {% if site.show_downloads %}
+          <a href="{{ site.github.repository_url }}">Project</a> |
+          <a href="{{ site.github.repository_url }}/releases">Downloads</a>
+        {% endif %}
+      </div>
+      {{ content }}
     </div>
-    <!--{% include footer.html %}-->
   </body>
 </html>
