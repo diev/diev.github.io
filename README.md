@@ -16,4 +16,4 @@ originally by [mattgraham](https://twitter.com/michigangraham).
 
 ## License
 
-See the [LICENSE](LICENSE) file.
+Licensed under the [Apache License, Version 2.0](LICENSE).
