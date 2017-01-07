@@ -137,16 +137,8 @@ into mainframes: C, Fortran.*
 
 ## Organizations
 
-* Soviet Army  
-July 1998 - September 1989
-
-## Projects
-
-See a secondary [page](projects-en).
-
-## Certifications
-
-* Diploma of professional retraining, 2015. IT Academy Russia. 
+### Soviet Army  
+July 1998 - September 1989 (1 year 2 months)
 
 ## Education
 
