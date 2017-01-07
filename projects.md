@@ -3,6 +3,10 @@
 
 Ru | [En](projects-en "English language (по-английски)")
 
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
+
 ## [ListXML](ListXML)
 *Интеллектуальная обработка полученного из СВК Банка России, разбор XML и 
 перераспределение по заданным спискам платежей (например, обслуживание по 
