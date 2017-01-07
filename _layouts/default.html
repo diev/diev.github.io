@@ -36,7 +36,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <section style="padding-top: 0;">
+      <section style="margin-top: 20px;">
         {% if site.github.is_user_page %}
           {{ content }}
         {% endif %}
@@ -45,10 +45,11 @@
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             <hr>
-            <span class="credits left">Project maintained by <a href="/">Dmitrii Evdokimov</a></span>
+            <span class="credits left">Project by <a href="/">Dmitrii Evdokimov</a></span>
             <span class="credits right">Hosted on GitHub:
               <a href="{{ site.github.repository_url }}">View</a> |
-              <a href="{{ site.github.releases_url }}">Downloads</a></span>
+              <a href="{{ site.github.releases_url }}">Downloads</a>
+            </span>
           </div>
           {{ content }}
         {% endif %}
