@@ -40,38 +40,22 @@ system. Deployment and maintenance of performance and fault management system
 for heterogeneous networks and servers infrastructure. Maintenance of key 
 infrastructure. Development of recommendations for personnel to meet 
 regulators' requirements. Research, adaptation and implementation of new 
-technologies corresponding to bank strategic profile. Application development.*
+technologies corresponding to bank strategic profile. Application development:*
 
-* [ListXML](ListXML)
-
-  *A parser of XML files of the Cental Bank of Russia to recomposite them 
+* *A parser of XML data files of the Cental Bank of Russia to recomposite them 
 according to a set of rules: C#.*
 
-* [PTK-PSD Browser](PTK-PSD-Browser-hta)
+* *So-development of a set of lightweight HTA utilities to browse data with the 
+PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels, 
+to exchange data with the SVK system of the Cental Bank of Russia, etc.: HTA.*
 
-  *So-development of a set of lightweight HTA utilities to browse data with the 
-PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels 
-and reports, etc.: HTA.*
-
-* [SVK Transport](SVK-Transport-hta)
-
-  *So-development of a set of lightweight HTA utilities to exchange data with 
-the SVK system of the Cental Bank of Russia, to monitor the flow of parcels 
-and reports, etc.: HTA.*
-
-* Cards Info Service
-
-  *Development of the GUI frontend for Internet/Intranet Information System 
+* *Development of the GUI frontend for Internet/Intranet Information System 
 on banking cards: ASP.NET, C#, SQL.*
 
-* Corporate Websites
-
-  *Development, maintenance and renovation of corporate websites: 
+* *Design, maintenance and renovation of corporate websites: 
 Amiro.CMS, HTML5, PHP, CSS3, Javascript, jQuery.*
 
-* Automatization, B2B, ETL
-
-  *Development of various software modules to automate bank data flows: 
+* *Development of various software modules to automate bank data flows: 
 C#, VBA, Delphi, XML, DBF, CSV, scripting, etc.*
 
 ### Chief Information Officer (CIO) at [ZAO «City Invest Bank»](http://www.cibank.ru/en/)
@@ -84,25 +68,20 @@ administration. Deployment and maintenance of corporate backup and
 configuration management systems. Bank database and application development. 
 Datacenter duty shift management. New engineers recruitment.*
 
-* Migration to BSS BS-Client
+* *Migration to BSS BS-Client: analysis of actual market proposals. 
+Carrying out negotiations with solution suppliers. 
+Tuning and deployment of this new Remote Banking to customers.*
 
-  *Analysis of actual market proposals. Carrying out negotiations with solution 
-suppliers. Deployment of new Remote Banking...*
-
-* Remote Banking
-
-  *Retail Solution for Remote Banking: Excel + VBA + PGP + SMail.*
+* *Remote Banking retail solution: Excel + VBA + PGP + SMail.*
 
 ### System Administrator at OOO «AviaTransAgency»
 November 1997 - November 1998 (1 year 1 month)
 
 *Design and implementation of headquarters LAN. Windows and Novell Netware 
-servers administration. Outsource Delphi application development.*
+servers administration.*
 
-* Outsource Development
-
-  *Development of a graphic design software for an American company: 
-Delphi, graphics libraries.*
+* *Outsource Delphi application development of a graphic design software 
+for an American company: Delphi, graphics libraries.*
 
 ### IT Supervisor at OOO «Fruit Company «Palma»
 October 1996 - November 1997 (1 year 2 months)
@@ -114,10 +93,8 @@ accounting of salesmen. Identifying and analyzing company needs and priorities
 in IT field and translation them into solutions or service requirements, 
 technical specifications and commercial proposals.*
 
-* Warehouse Accounting System
-
-  *Development of a complex software system to account all orders and to control 
-wares movements, sales, reports: Excel, VBA.*
+* *Development of a complex warehouse system to account all orders and to 
+control wares movements, sales, reports: Excel, VBA.*
  
 ### Software Engineer at [ZAO «City Invest Bank»](http://www.cibank.ru/en/)
 February 1995 - October 1996 (1 year 9 months)
@@ -128,10 +105,8 @@ IT/Telecom infrastructure condition, strategic IT profile development and
 maintenance. Project management of new business systems development and 
 deployment.*
 
-* ETL Services
-
-  *Development of software for transformation of data between different systems: 
-C, Clipper.*
+* *Development of ETL software services for transformation of data between 
+different systems: C, Clipper.*
 
 ### Software Engineer at AOZT «Port-Bank»
 January 1994 - February 1995 (1 year 2 months)
@@ -141,9 +116,7 @@ to bank strategic profile. New GUI application development. Participation in
 exhibitions, discussion groups and conferences for purposes of adopting of 
 new paradigms.*
 
-* GUI Frontends to RDBMS
-
-  *Development of new graphical user interfaces for old databases: 
+* *Development of new graphical user interfaces for old databases: 
 Visual Basic, Clipper, DBF.*
 
 ### Electronic Engineer at State Company «LenTechno»
@@ -152,18 +125,14 @@ February 1993 - January 1994 (1 year)
 *Maintenance of distibuted sites of computers. Implementation of networks. 
 Development of systems accounting and inventory.*
 
-* Inventory Control and Maintenance
-
-  *Development of an Inventory System and maintenance of computers: C.*
+* *Development of an Inventory System and maintenance of computers: C.*
 
 ### Software Developer at North-West State Forest Inventory Enterprise
 January 1992 - November 1992 (6 months)
 
 *Application development for PC and mainframes.*
 
-* Forestry Data Transfer
-
-  *Development of a PC software application to quickly enter the big data arrays 
+* *Development of a PC software application to quickly enter the big data arrays 
 into mainframes: C, Fortran.*
 
 ## Organizations
@@ -183,8 +152,7 @@ See a secondary [page](projects-en).
 
 ### [IT Academy Russia](http://www.academy.it.ru/)
 
-* 2015  
-Diploma for the right to carry out professional activities.  
+* 2015 Diploma for the right to carry out professional activities.  
 090104 (075400) "The complex protection of objects of informatization".
 
   *Professional retraining (540 hours) at IT Academy on the program 
@@ -193,20 +161,16 @@ of the right to professional activities in the field of information security.*
 
 ### [Academy of Information Systems](http://infosystems.ru/)
 
-* 2009  
-Certificate of professional development.  
-"Information security with using of encryption (cryptographic) means"  
-
-  *(72 hours)*
+* 2009 Certificate of professional development.  
+"Information security with using of encryption (cryptographic) means" 
+*(72 hours)*
 
 ### [St.Petersburg State University of Aerospace Instrumentation](http://suai.ru/)
 
-* 2000 - 2001  
-Bachelor's degree.  
+* 2000 - 2001 Bachelor's degree.  
 552800 "Computer Science and Engineering".
 
-* 1987 - 1992  
-Several courses.  
+* 1987 - 1992 Several courses.  
 22.02 "Automated Systems of Information Processing and Control".
 
 ## Languages
@@ -217,8 +181,7 @@ Several courses.
 
 ## Volunteer Experience
 
-* Member of the haiku society
-
-  *Since 2002 - writing haiku and tanka in Japanese traditions, participation 
+* Member of the International Haiku Society  
+*Since 2002 - writing haiku and tanka in Japanese traditions, participation 
 in the drafting of renga and haiga, international translating, consulting 
-services for beginners, participation in juries.*
+services for beginners, participation in contests and juries.*
