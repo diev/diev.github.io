@@ -1,4 +1,4 @@
-﻿  | Ru | [En](resume-en "English language (по-английски)")
+﻿&nbsp; | Ru | [En](resume-en "English language (по-английски)")
 
 [Евдокимов Дмитрий Леонидович](/)
 =================================

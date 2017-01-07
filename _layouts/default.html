@@ -1,9 +1,11 @@
 <!DOCTYPE html>
+{% if page.url == "/" or page.url == "/en.html" %}
+  {% assign home = true %}
+{% endif %}
 {% if page.url contains "/en.html" or page.url contains "-en.html" %}
   {% assign en = true %}
 <html lang="en">
 {% else %}
-  {% assign en = false %}
 <html lang="ru">
 {% endif %}
   <head>

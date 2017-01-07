@@ -1,4 +1,4 @@
-  | En | [Ru](resume "Russian language (по-русски)")
+&nbsp; | En | [Ru](resume "Russian language (по-русски)")
 
 [Dmitrii Evdokimov](en)
 =======================
