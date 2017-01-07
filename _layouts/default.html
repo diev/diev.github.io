@@ -44,10 +44,15 @@
     <div class="wrapper">
       <section style="margin-top: 20px;">
         {% if site.github.is_user_page %}
-{% if en %}
+{% if en == true %}
 ENGLISH
 {% else %}
 RUSSIAN
+{% endif %}
+{% if ens == "-en" %}
+ENGLISH-EN
+{% else %}
+RUSSIAN-RU
 {% endif %}
           {{ content }}
         {% endif %}
