@@ -1,9 +1,7 @@
-﻿[Dmitrii Evdokimov's](/)
+﻿[Dmitrii Evdokimov's](/) | En | [Ru](projects "Russian language (по-русски)")
 
 Projects
 ========
-
-En | [Ru](projects "Russian language (по-русски)")
 
 ## [ListXML](ListXML)
 *A parser of XML files to recomposite them according to a set of rules: C#.*
