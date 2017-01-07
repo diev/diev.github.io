@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-{% if page.url == "/en.html" or "-en.html" == page.url | slice: -8, 8 %}
-{% assign en = true %}
-{% else %}
-{% assign en = false %}
-{% endif %}
+{% assign en = (page.url == "/en.html" or page.url contains "-en.html") %}
 {% if en %}
 <html lang="en">
 {% else %}
