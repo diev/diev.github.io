@@ -1,5 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "ru" }}">
+{% assign en = page.url == "en" or "-en" == page.url | slice: -3, 3 %}
+{% if en %}
+<html lang="en">
+{% else %}
+<html lang="ru">
+{% endif %}
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -38,6 +43,11 @@
     <div class="wrapper">
       <section style="margin-top: 20px;">
         {% if site.github.is_user_page %}
+{% if en %}
+ENGLISH
+{% else %}
+RUSSIAN
+{% endif %}
           {{ content }}
         {% endif %}
         {% if site.github.is_project_page %}
