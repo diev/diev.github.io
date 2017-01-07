@@ -5,5 +5,5 @@ Personal Website
 En                      | [Ru](/ "Russian language (по-русски)")
 [Projects](projects-en) | [Проекты](projects)
 [Resume](resume-en)     | [Резюме](resume)
-[GitHub](https://github.com/diev) |
+[GitHub](github)        |
                         | [Facebook](https://www.facebook.com/dmitrii.evdokimov)
