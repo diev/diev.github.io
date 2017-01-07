@@ -53,18 +53,31 @@
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             <hr>
-            <span class="credits left">Project by <a href="/">Dmitrii Evdokimov</a></span>
+            {% if en %}
+            <span class="credits left">Project by <a href="/en">Dmitrii Evdokimov</a></span>
             <span class="credits right">Hosted on GitHub:
               <a href="{{ site.github.repository_url }}">View</a> |
               <a href="{{ site.github.releases_url }}">Downloads</a>
             </span>
+            {% else %}
+            <span class="credits left">Project by <a href="/">Дмитрий Евдокимов</a></span>
+            <span class="credits right">Hosted on GitHub:
+              <a href="{{ site.github.repository_url }}">Смотреть</a> |
+              <a href="{{ site.github.releases_url }}">Загрузки</a>
+            </span>
+            {% endif %}
           </div>
           {{ content }}
         {% endif %}
       </section>
-            <hr>
-            <span class="credits left">&copy; 2017 <a href="/">Dmitrii Evdokimov</a></span>
-            <span class="credits right"><a href="/about">About this site</a></span>
+      <table>
+        <tbody>
+          <tr>
+            <td>&copy; 2017</td>
+            <td><a href="/about">About this site</a></td>
+          </tr>
+        </tbody>
+      </table>
     </div>
     {% if site.google_analytics %}
       <script type="text/javascript">
