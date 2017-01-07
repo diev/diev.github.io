@@ -1,6 +1,3 @@
----
-lang: en
----
 Dmitrii Evdokimov
 =================
 
