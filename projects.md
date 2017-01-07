@@ -3,14 +3,13 @@
 
 Ru | [En](projects-en "English language (по-английски)")
 
-<dl>
 {% for repository in site.github.public_repositories %}
   {% unless repository.fork %}
-  <dt>[{{ repository.name }}]({{ repository.html_url }})</dt>
-    <dd>{{ repository.description }}</dd>
+* [{{ repository.name }}]({{ repository.html_url }})
+  
+  *{{ repository.description }}*
   {% endunless %}
 {% endfor %}
-</dl>
 
 ## [ListXML](ListXML)
 *Интеллектуальная обработка полученного из СВК Банка России, разбор XML и 
