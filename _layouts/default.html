@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-{% assign en = (page.url == "/en.html" or page.url contains "-en.html") %}
-{% if en %}
+{% if page.url == "/en.html" or page.url contains "-en.html" %}
+  {% assign en = true %}
 <html lang="en">
 {% else %}
+  {% assign en = false %}
 <html lang="ru">
 {% endif %}
   <head>
@@ -43,18 +44,11 @@
     <div class="wrapper">
       <section style="margin-top: 20px;">
         {% if site.github.is_user_page %}
-page.url={{ page.url }}
-ens={{ ens }}
 en={{ en }}
-{% if en == true %}
+{% if en %}
 ENGLISH
 {% else %}
 RUSSIAN
-{% endif %}
-{% if ens == "-en" %}
-ENGLISH-EN
-{% else %}
-RUSSIAN-RU
 {% endif %}
           {{ content }}
         {% endif %}
