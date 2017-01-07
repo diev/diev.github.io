@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: "ru" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -36,22 +36,35 @@
   </head>
   <body>
     <div class="wrapper">
-      {% if site.github.is_user_page %}
-        <section>
+      <section style="padding-top: 0;">
+        {% if site.github.is_user_page %}
           {{ content }}
-        </section>
-      {% endif %}
-      {% if site.github.is_project_page %}
-        <div id="title">
-          <span class="credits left">Project by <a href="/">Dmitrii Evdokimov</a></span>
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <a href="{{ site.github.repository_url }}">Project</a> |
-          <a href="{{ site.github.releases_url }}">Downloads</a>
-        </div>
-        {{ content }}
-      {% endif %}
+        {% endif %}
+        {% if site.github.is_project_page %}
+          <div id="title">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <hr>
+            <span class="credits left">Project maintained by <a href="/">Dmitrii Evdokimov</a></span>
+            <span class="credits right">Hosted on GitHub:
+              <a href="{{ site.github.repository_url }}">View</a> |
+              <a href="{{ site.github.releases_url }}">Downloads</a></span>
+          </div>
+          {{ content }}
+        {% endif %}
+      </section>
     </div>
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+        try {
+          var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
+        pageTracker._trackPageview();
+        } catch(err) {}
+      </script>
+    {% endif %}
   </body>
 </html>
