@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% if page.url == "/en.html" or page.url contains "-en.html" %}
+{% if page.url contains "/en.html" or page.url contains "-en.html" %}
   {% assign en = true %}
 <html lang="en">
 {% else %}
@@ -44,12 +44,6 @@
     <div class="wrapper">
       <section style="margin-top: 20px;">
         {% if site.github.is_user_page %}
-en={{ en }}
-{% if en %}
-ENGLISH
-{% else %}
-RUSSIAN
-{% endif %}
           {{ content }}
         {% endif %}
         {% if site.github.is_project_page %}
