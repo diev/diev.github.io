@@ -1,4 +1,7 @@
-# This website by Dmitrii Evdokimov
+[Dmitrii Evdokimov](en)
+
+About this site
+===============
 
 En | [Ru](about "Russian language (по-русски)")
 
