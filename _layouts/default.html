@@ -1,19 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "ru" }}">
+<html>
   {% include head.html %}
   <body>
     <div class="wrapper">
-      <div id="title">
-        <span class="credits left">Project by <a href="/">Dmitrii Evdokimov</a></span>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <hr>
-        {% if site.show_downloads %}
+      {% if site.github.is_user_page %}
+        <section>
+          {{ content }}
+        </section>
+      {% endif %}
+      {% if site.github.is_project_page %}
+        <div id="title">
+          <span class="credits left">Project by <a href="/">Dmitrii Evdokimov</a></span>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
           <a href="{{ site.github.repository_url }}">Project</a> |
-          <a href="{{ site.github.repository_url }}/releases">Downloads</a>
-        {% endif %}
-      </div>
-      {{ content }}
+          <a href="{{ site.github.releases_url }}">Downloads</a>
+        </div>
+        {{ content }}
+      {% endif %}
     </div>
   </body>
 </html>
