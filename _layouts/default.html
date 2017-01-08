@@ -23,9 +23,9 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="96x96" hrgef="/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -51,8 +51,7 @@
       <section>
         {% if site.github.is_user_page %}
           {{ content }}
-        {% endif %}
-        {% if site.github.is_project_page %}
+        {% elsif site.github.is_project_page %}
           <div id="title">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -81,7 +80,7 @@
               <td>&copy; 2017</td>
               {% if page.url contains "/about" %}
               <td> </td>
-              {% elif en %}
+              {% elsif en %}
               <td style="text-align: right;"><a href="/about-en">About this site</a></td>
               {% else %}
               <td style="text-align: right;"><a href="/about">Об этом сайте</a></td>
