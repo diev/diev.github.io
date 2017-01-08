@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% if page.url == "/" or page.url == "/en.html" %}
+{% if page.url == "/" or page.url == "/index.html" or page.url == "/en.html" %}
   {% assign home = true %}
 {% endif %}
 {% if page.url contains "/en.html" or page.url contains "-en.html" %}
@@ -79,7 +79,9 @@
           <tbody>
             <tr>
               <td>&copy; 2017</td>
-              {% if en %}
+              {% if page.url contains "/about" %}
+              <td> </td>
+              {% elif en %}
               <td style="text-align: right;"><a href="/about-en">About this site</a></td>
               {% else %}
               <td style="text-align: right;"><a href="/about">Об этом сайте</a></td>
