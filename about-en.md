@@ -5,6 +5,8 @@ About this site
 
 En | [Ru](about "Russian language (по-русски)")
 
+<img alt="" class="avatar width-full rounded-2" height="230" src="https://avatars3.githubusercontent.com/u/2707312?v=3&amp;s=460" width="230">
+
 dievdo.ru is:
 
 Licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US) (CC BY 3.0).  
