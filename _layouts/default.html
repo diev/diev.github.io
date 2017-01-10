@@ -2,12 +2,21 @@
 {% if page.url == "/" or page.url == "/index.html" or page.url == "/en.html" %}
   {% assign home = true %}
 {% endif %}
+{% if page.url contains "/about" %}
+  {% assign about = true %}
+{% endif %}
 {% if page.url contains "/en.html" or page.url contains "-en.html" %}
   {% assign en = true %}
-<html lang="en">
+  {% assign lang = "en" %}
+  {% assign langx = "-en" %}
+  {% assign author = "Dmitrii Evdokimov" %}
 {% else %}
-<html lang="ru">
+  {% assign ru = true %}
+  {% assign lang = "ru" %}
+  {% assign langx = "" %}
+  {% assign author = "Дмитрий Евдокимов" %}
 {% endif %}
+<html lang="{{ lang }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -31,7 +40,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <!--/favicon-->    
+    <!--/favicon-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -50,67 +59,74 @@
     <div class="wrapper">
       <section>
         {% if site.github.is_user_page %}
-          {{ content }}
+
+        {{ content }}
+
         {% elsif site.github.is_project_page %}
-          <div id="title">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
-            <hr>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
+          <span class="credits left">Project by <a href="/{{ langx }}" title="Home Page">{{ author }}</a></span>
+          <span class="credits right">Hosted on <a href="{{ site.github.repository_url }}" title="Project">GitHub</a></span>
+        </div>
+
+        {{ content }}
+
+        {% if home %}
+        <h2>Downloads</h2>
+        <div><span class="spinning"></span></div>
+        <table class="table-downloads">
+          <thead>
             {% if en %}
-            <span class="credits left">Project by <a href="/en" title="Home Page">Dmitrii Evdokimov</a></span>
-            <span class="credits right">Hosted on GitHub:
-              <a href="{{ site.github.repository_url }}" title="Project">View</a> |
-              <a href="download-en" title="Download">Releases</a>
-            </span>
+            <th>Release</th>
+            <th>Download</th>
+            <th>Date</th>
             {% else %}
-            <span class="credits left">Project by <a href="/" title="Сайт">Дмитрий Евдокимов</a></span>
-            <span class="credits right">Hosted on GitHub:
-              <a href="{{ site.github.repository_url }}" title="Проект">Смотреть</a> |
-              <a href="download" title="Загрузки">Скачать</a>
-            </span>
+            <th>Релиз</th>
+            <th>Скачать</th>
+            <th>Дата</th>
             {% endif %}
-          </div>
-          {{ content }}
-          {% if page.url contains "/download" %}
-          <div><span class="spinning"></span></div>
-          <table class="table-downloads">
-            <tbody>
-            </tbody>
-          </table>
-          <script>
-            $.getJSON("http://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/releases").done(function(json) {
-              for (var i = 0; i < json.length; i++) {
-                var release = json[i];
-                if (release.assets.length === 0) {
-                  continue;
-                }
-                var asset = release.assets[0];
-                var fileSize = Math.round(asset.size / 1024);
-                $(".table-downloads tbody")
-                  .append($("<tr>")
-                    .append($("<td>")
-                      .append($("<a>")
-                        .attr("href", release.html_url)
-                        .text(release.name)
-                      )
-                      .append(release.prerelease ? " (Pre)" : "")
-                    )
-                    .append($("<td>")
-                      .append($("<a>")
-                        .attr("href", asset.browser_download_url)
-                        .text(fileSize.toLocaleString() + " KB")
-                      )
-                    )
-                    .append($("<td>")
-                      .text(asset.updated_at)
-                    )
-                  );
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+        <script>
+          $.getJSON("http://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/releases").done(function(json) {
+            for (var i = 0; i < json.length; i++) {
+              var release = json[i];
+              if (release.assets.length === 0) {
+                continue;
               }
-              $(".spinning").hide();
-              $(".table.downloads").fadeIn();
-            });
+              var asset = release.assets[0];
+              var fileSize = Math.round(asset.size / 1024);
+              $(".table-downloads tbody")
+                .append($("<tr>")
+                  .append($("<td>")
+                    .append($("<a>")
+                      .attr("href", release.html_url)
+                      .text(release.name)
+                    )
+                    .append(release.prerelease ? " (Pre)" : "")
+                  )
+                  .append($("<td>")
+                    .append($("<a>")
+                      .attr("href", asset.browser_download_url)
+                      .text(fileSize.toLocaleString() + " KB")
+                    )
+                  )
+                  .append($("<td>")
+                    .text(asset.updated_at.substring(0, 10))
+                  )
+                );
+            }
+            $(".spinning").hide();
+            $(".table.downloads").fadeIn();
+          });
           </script>
-          {% endif %}
+          <noscript>
+            <p><a href="{{ site.github.releases_url }}" title="Releases">Releases on GitHub</a></p>
+          </noscript>
         {% endif %}
       </section>
       <div id="footer">
@@ -118,10 +134,10 @@
           <tbody>
             <tr>
               <td>&copy; 2017</td>
-              {% if page.url contains "/about" %}
+              {% if about %}
               <td> </td>
               {% elsif en %}
-              <td style="text-align: right;"><a href="/about-en">About this site</a></td>
+              <td style="text-align: right;"><a href="/about{{ langx }}">About this site</a></td>
               {% else %}
               <td style="text-align: right;"><a href="/about">Об этом сайте</a></td>
               {% endif %}
@@ -131,16 +147,16 @@
       </div>
     </div>
     {% if site.google_analytics %}
-      <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-      </script>
-      <script type="text/javascript">
-        try {
-          var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
-        pageTracker._trackPageview();
-        } catch(err) {}
-      </script>
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
+      pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
     {% endif %}
   </body>
 </html>

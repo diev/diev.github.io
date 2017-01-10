@@ -1,7 +1,7 @@
 ﻿[Dmitrii Evdokimov's](/)
 
-GitHub public projects 
-======================
+Public projects on GitHub
+=========================
 
 Мои открытые проекты на GitHub:
 
