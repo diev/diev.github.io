@@ -18,6 +18,13 @@
     <div class="wrapper">
       <section>
         {% if site.github.is_user_page %}
+        
+        <span class="left"><a href="/{{ langx }}" title="Home Page">{{ author }}</a></span>
+        {% if en %}
+        <span class="right">En | <a href="{{ page.url | remove: "-en.html" }}.html" title="Russian language (по-русски)">Ru</a></span>
+        {% else %}
+        <span class="right">Ru | <a href="{{ page.url | remove: ".html" }}-en.html" title="English language (по-английски)">En</a></span>
+        {% endif %}
 
           {{ content }}
 
