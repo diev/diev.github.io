@@ -1,7 +1,5 @@
-[Dmitrii Evdokimov](en)
-=======================
-
-En | [Ru](resume "Russian language (по-русски)")
+Dmitrii Evdokimov
+=================
 
 12 April 1970 (46 years old), married.
 
