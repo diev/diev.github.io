@@ -5,9 +5,9 @@ About this site
 
 dievdo.ru is:
 
-Licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).  
+Licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).  
 Powered by [Jekyll](http://jekyllrb.com/).  
-Hosted as `diev.github.io` on [GitHub](http://github.com/diev/diev.github.io) thanks to [GitHub Pages](http://pages.github.com/).  
-Theme based on [Midnight](https://pages-themes.github.io/midnight/) originally by [mattgraham](https://twitter.com/michigangraham).
+Hosted on [GitHub](http://github.com/diev/diev.github.io) thanks to [GitHub Pages](http://pages.github.com/).  
+Theme based on [Midnight](https://pages-themes.github.io/midnight/) originally by [mattgraham](https://twitter.com/michigangraham "Twitter").
 
 A work in progress.
