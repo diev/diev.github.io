@@ -5,9 +5,9 @@
 
 dievdo.ru:
 
-Licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/deed.ru) (CC BY 4.0).  
-Powered by [Jekyll](http://jekyllrb.com/).  
-Hosted as `diev.github.io` on [GitHub](http://github.com/diev/diev.github.io) thanks to [GitHub Pages](http://pages.github.com/).  
-Theme based on [Midnight](https://pages-themes.github.io/midnight/) originally by [mattgraham](https://twitter.com/michigangraham).
+На содержимое лицензия [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/deed.ru) (CC BY 4.0).  
+Построен на [Jekyll](http://jekyllrb.com/).  
+Хостится на [GitHub](http://github.com/diev/diev.github.io) благодаря [GitHub Pages](http://pages.github.com/).  
+Тема основана на [Midnight](https://pages-themes.github.io/midnight/) изначально авторства [mattgraham](https://twitter.com/michigangraham "Twitter").
 
 Работы продолжаются.
