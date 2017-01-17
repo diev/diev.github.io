@@ -19,17 +19,15 @@
       <section>
         {% if site.github.is_user_page %}
         
-        <div id="title">
-          {% if en %}
-          <span class="credits left"><a href="/" title="Home Page">{{ author }}</a></span>
-          <span class="credits right">En | <a href="{{ page.url | remove: "-en.html" }}" title="Russian language (по-русски)">Ru</a></span>
-          {% else %}
-          <span class="credits left"><a href="/en" title="Home Page">{{ author }}</a></span>
-          <span class="credits right">Ru | <a href="{{ page.url | remove: ".html" }}-en" title="English language (по-английски)">En</a></span>
-          {% endif %}
-        </div>
+        {% if en %}
+        <span class="credits left"><a href="/" title="Home Page">{{ author }}</a></span>
+        <span class="credits right">En | <a href="{{ page.url | remove: "-en.html" }}" title="Russian language (по-русски)">Ru</a></span>
+        {% else %}
+        <span class="credits left"><a href="/en" title="Home Page">{{ author }}</a></span>
+        <span class="credits right">Ru | <a href="{{ page.url | remove: ".html" }}-en" title="English language (по-английски)">En</a></span>
+        {% endif %}
 
-          {{ content }}
+        {{ content }}
 
         {% elsif site.github.is_project_page %}
           <div id="title">
