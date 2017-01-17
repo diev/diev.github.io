@@ -1,5 +1,3 @@
-﻿[Dmitrii Evdokimov's](/)
-
 Public projects on GitHub
 =========================
 
