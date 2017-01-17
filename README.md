@@ -17,3 +17,5 @@ originally by [mattgraham](https://twitter.com/michigangraham).
 ## License
 
 Licensed under the [Apache License, Version 2.0](LICENSE).
+Content licensed under the [Creative Commons Attribution 4.0 International 
+License](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
