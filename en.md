@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Dmitrii Evdokimov
 
 Personal Website
