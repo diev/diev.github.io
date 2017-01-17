@@ -1,9 +1,5 @@
-[Дмитрий Евдокимов](/)
-
 Об этом сайте
 =============
-
-Ru | [En](about-en "English language (по-английски)")
 
 <img alt="" class="avatar width-full rounded-2" height="230" src="https://avatars3.githubusercontent.com/u/2707312?v=3&amp;s=460" width="230">
 
