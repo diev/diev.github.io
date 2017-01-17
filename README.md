@@ -14,6 +14,10 @@ right from your GitHub repositories.
 Theme based on [Midnight](https://github.com/pages-themes/midnight) 
 originally by [mattgraham](https://twitter.com/michigangraham).
 
+## A Feature
+
+Herewith I try to make a multilanguage site by very simple things used.
+
 ## License
 
 Licensed under the [Apache License, Version 2.0](LICENSE).  
