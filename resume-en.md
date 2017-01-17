@@ -22,9 +22,6 @@ security.
 * Broad experience in developing of bank business processes.
 * Strong skills in automatization of data flow procedures and transformations.
 * A number of programing languages and developer environments.
-* Implementing and maintenance of heterogeneous networks and servers 
-infrastructure.
-* The main purpose: to make it work!
 
 ## Experience
 
