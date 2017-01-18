@@ -4,14 +4,27 @@ google_analytics:
 show_downloads:
 theme: jekyll-theme-midnight
 
+defaults:
+  -
+    scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: "default"
+
 collections:
   docs:
     permalink: /:path/
     output: true
 
 gems:
+  - jekyll-avatar
+  - jekyll-feed
   - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji
 
 exclude:
   - .gitignore
