@@ -1,0 +1,16 @@
+﻿- title: Ru
+  docs:
+  - home
+  - projects
+  - resume
+  - github
+  - about
+
+- title: En
+  docs:
+  - en
+  - projects-en
+  - resume-en
+  - github-en
+  - about-en
+
