@@ -1,13 +1,11 @@
 ---
 layout: home
-permalink: /
-redirect_from: /index.html
 ---
-# Дмитрий Евдокимов
+# Dmitrii Evdokimov
 
-Персональный сайт
+Personal Website
 
-[En](/en "English language (по-английски)") | Ru
+En                        | [Ru](/ "Russian language (по-русски)")
 [Projects](/en/projects)  | [Проекты](/projects)
 [Resume (CV)](/en/resume) | [Резюме](/resume)
 [GitHub](/en/github)      |
