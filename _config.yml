@@ -1,9 +1,19 @@
 title: Dmitrii Evdokimov
-description: Website
+description: Personal Website
 google_analytics: 
 show_downloads:
 theme: jekyll-theme-midnight
 
+collections:
+  docs:
+    permalink: /:path/
+    output: true
+
 gems:
   - jekyll-mentions
   - jekyll-sitemap
+
+exclude:
+  - .gitignore
+  - README.md
+  - LICENSE
