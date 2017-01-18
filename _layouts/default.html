@@ -1,16 +1,13 @@
 <!DOCTYPE html>
-{% if page.url contains "/en.html" or page.url contains "-en.html" %}
+{% if page.url contains "/en/" %}
   {% assign en = true %}
   {% assign lang = "en" %}
-  {% assign langx = "-en" %}
   {% assign author = "Dmitrii Evdokimov" %}
+<html lang="en">
 {% else %}
-  {% assign ru = true %}
-  {% assign lang = "ru" %}
-  {% assign langx = "" %}
   {% assign author = "Дмитрий Евдокимов" %}
+<html lang="ru">
 {% endif %}
-<html lang="{{ lang }}">
   
   {% include head.html %}
   
@@ -21,10 +18,10 @@
         <div>
         {% if en %}
         <span class="credits left"><a href="/en" title="Home Page">{{ author }}</a></span>
-        <span class="credits right">En | <a href="{{ page.url | remove: "-en.html" }}" title="Russian language (по-русски)">Ru</a></span>
+        <span class="credits right">En | <a href="{{ page.url | remove: "/en" }}" title="Russian language (по-русски)">Ru</a></span>
         {% else %}
         <span class="credits left"><a href="/" title="Home Page">{{ author }}</a></span>
-        <span class="credits right">Ru | <a href="{{ page.url | remove: ".html" }}-en" title="English language (по-английски)">En</a></span>
+        <span class="credits right">Ru | <a href="/en{{ page.url }}" title="English language (по-английски)">En</a></span>
         {% endif %}
         </div>
 

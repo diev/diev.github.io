@@ -1,16 +1,13 @@
 <!DOCTYPE html>
-{% if page.url contains "/en.html" or page.url contains "-en.html" %}
+{% if page.url contains "/en/" %}
   {% assign en = true %}
   {% assign lang = "en" %}
-  {% assign langx = "-en" %}
   {% assign author = "Dmitrii Evdokimov" %}
+<html lang="en">
 {% else %}
-  {% assign ru = true %}
-  {% assign lang = "ru" %}
-  {% assign langx = "" %}
   {% assign author = "Дмитрий Евдокимов" %}
+<html lang="ru">
 {% endif %}
-<html lang="{{ lang }}">
   
   {% include head.html %}
   
@@ -26,7 +23,7 @@
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             <hr>
-            <span class="credits left">Project by <a href="/{{ langx }}" title="Home Page">{{ author }}</a></span>
+            <span class="credits left">Project by <a href="/{{ lang }}" title="Home Page">{{ author }}</a></span>
             <span class="credits right">Hosted on <a href="{{ site.github.repository_url }}" title="Open Project">GitHub</a></span>
           </div>
 
