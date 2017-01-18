@@ -1,6 +1,6 @@
 ﻿- title: Ru
   docs:
-  - home
+  - index
   - projects
   - resume
   - github
@@ -8,9 +8,9 @@
 
 - title: En
   docs:
-  - en
-  - projects-en
-  - resume-en
-  - github-en
-  - about-en
+  - en/index
+  - en/projects
+  - en/resume
+  - en/github
+  - en/about
 
