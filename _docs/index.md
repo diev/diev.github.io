@@ -1,5 +1,6 @@
 ---
 permalink: /home/
+redirect_from: /index.html
 ---
 # Дмитрий Евдокимов
 
