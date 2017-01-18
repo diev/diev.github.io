@@ -1,19 +1,14 @@
 {% if page.url contains "/about" %}
   {% assign about = true %}
 {% endif %}
-{% if page.url contains "/en.html" or page.url contains "-en.html" %}
+{% if page.url contains "/en/" %}
   {% assign en = true %}
   {% assign lang = "en" %}
-  {% assign langx = "-en" %}
-{% else %}
-  {% assign ru = true %}
-  {% assign lang = "ru" %}
-  {% assign langx = "" %}
 {% endif %}
 <div id="footer">
   <span class="credits left">&copy; 2016-{{ 'now' | date: "%Y" }}</span>
   {% if en %}
-  <span class="credits right"><a href="/about{{ langx }}">About this site</a></span>
+  <span class="credits right"><a href="/{{ lang }}/about">About this site</a></span>
   {% else %}
   <span class="credits right"><a href="/about">Об этом сайте</a></span>
   {% endif %}
