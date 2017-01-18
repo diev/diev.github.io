@@ -8,9 +8,9 @@
 <div id="footer">
   <span class="credits left">&copy; 2016-{{ 'now' | date: "%Y" }}</span>
   {% if en %}
-  <span class="credits right"><a href="/{{ lang }}/about">About this site</a></span>
+  <span class="credits right">{% if about %}About this site{% else %}<a href="/{{ lang }}/about">About this site</a>{% endif %}</span>
   {% else %}
-  <span class="credits right"><a href="/about">Об этом сайте</a></span>
+  <span class="credits right">{% if about %}Об этом сайте{% else %}<a href="/about">Об этом сайте</a>{% endif %}</span>
   {% endif %}
 </div>
 {% if site.google_analytics %}
