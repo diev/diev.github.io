@@ -130,10 +130,6 @@ January 1992 - November 1992 (6 months)
 * *Development of a PC software application to quickly enter the big data arrays 
 into mainframes: C, Fortran.*
 
-## Military Service
-
-July 1998 - September 1989 (1 year 2 months)
-
 ## Education
 
 ### [IT Academy Russia](http://www.academy.it.ru/)
@@ -164,6 +160,9 @@ of the right to professional activities in the field of information security.*
 * Russian (native proficiency)
 * English (professional working proficiency)
 * Italiano (elementary proficiency)
+
+## Military Service
+July 1998 - September 1989 (1 year 2 months)
 
 ## Volunteer Experience
 
