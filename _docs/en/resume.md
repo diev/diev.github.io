@@ -7,10 +7,8 @@ Dmitrii Evdokimov
 
 CISO - Chief Information Security Officer at 
 [AO «City Invest Bank»](http://www.cibank.ru/en/)  
-St.Petersburg 196158, Russia
+St.Petersburg, Russia
 
-Formerly: ZAO «City Invest Bank», OOO «AviaTransAgency», 
-OOO «Fruit Company «Palma»  
 Education: [IT Academy Russia](http://www.academy.it.ru/), SPbGUAP (LIAP)
 
 Site: [dievdo.ru](/)  
