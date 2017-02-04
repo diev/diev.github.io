@@ -130,9 +130,8 @@ January 1992 - November 1992 (6 months)
 * *Development of a PC software application to quickly enter the big data arrays 
 into mainframes: C, Fortran.*
 
-## Organizations
+## Military Service
 
-### Soviet Army  
 July 1998 - September 1989 (1 year 2 months)
 
 ## Education
