@@ -1,9 +1,7 @@
 ---
 ---
-Public projects on GitHub
-=========================
-
-Мои открытые проекты на GitHub:
+Мои открытые проекты на GitHub
+==============================
 
 {% for repository in site.github.public_repositories %}
   {% unless repository.fork %}
