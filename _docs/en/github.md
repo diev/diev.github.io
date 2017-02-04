@@ -1,9 +1,7 @@
 ---
 ---
-Public projects on GitHub
-=========================
-
-My opensource projects published on GitHub:
+My public opensource projects on GitHub
+=======================================
 
 {% for repository in site.github.public_repositories %}
   {% unless repository.fork %}
