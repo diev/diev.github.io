@@ -13,7 +13,7 @@ Education: [IT Academy Russia](http://www.academy.it.ru/), SPbGUAP (LIAP)
 
 Site: [dievdo.ru](/)  
 ~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
-Facebook: [facebook.com/dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
+Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
 
 ## Summary
 
