@@ -3,7 +3,7 @@
 Dmitrii Evdokimov
 =================
 
-12 April 1970 (46 years old), married.
+12 April 1970 (47 years old), married.
 
 CISO - Chief Information Security Officer at 
 [AO «City Invest Bank»](http://www.cibank.ru/en/)  
@@ -19,49 +19,69 @@ Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
 
 * 20+ years in IT administration, software development and information 
 security.
-* Broad experience in developing of bank business processes.
-* Strong skills in automatization of data flow procedures and transformations.
+* Broad experience in developing of bank processes, skills in automatization 
+of data flow procedures and transformations.
 * A number of programing languages and developer environments.
 
 ## Experience
 
 ### Chief Information Security Officer (CISO) at [AO «City Invest Bank»](http://www.cibank.ru/en/)
-June 2008 - Present (more 8 years 8 months)
+June 2008 - Present (more 9 years)
 
-*Analysis of business processes and IT/Telecom infrastructure of the bank. 
-Design, maintenance and control of execution of information security policies. 
-Development and implementation of network traffic accounting and filtering 
-system. Deployment and maintenance of performance and fault management system 
-for heterogeneous networks and servers infrastructure. Maintenance of key 
-infrastructure. Development of recommendations for personnel to meet 
-regulators' requirements. Research, adaptation and implementation of new 
-technologies corresponding to bank strategic profile. Application development:*
+*Provision of information security (IB) of the bank in accordance with 
+the requirements of regulators and counterparties: Bank of Russia 
+(STO BR, 382-P, 552-P, FinCERT), FSB, FSTEC (Personal Data), SMEV, 
+Treasury, Moscow Stock Exchange, NBKI, VISA (PCI DSS), SWIFT, FATCA IDES. 
+Analysis of business processes, IT and telecom infrastructure of the bank 
+in order to protect them against various security threats, organization 
+of information resources, virtualization and backup. 
+Implementation of metering and filtering systems for network traffic. 
+Development of recommendations for staff and training. 
+Development of software for internal use.*
+
+* *A full cycle of works with cryptographic protection and maintenance 
+of key infrastructure: 
+Verba-OW, Signature, Validate, CryptoPRO, PKI, GPG, PGP, SSH, eToken, ruToken.*
+
+* *Administration, access and security: 
+ARM CBR, PTK PSD, Microsoft AD, SQL, SharePoint, IIS, CentOS, KVM, Samba, 
+Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA, KAV, iRedAdmin, 
+Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI, FineReaderBANK.*
 
 * *A parser of XML data files of the Cental Bank of Russia to recomposite them 
 according to a set of rules: C#.*
 
 * *So-development of a set of lightweight HTA utilities to browse data with the 
 PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels, 
-to exchange data with the SVK system of the Cental Bank of Russia, etc.: HTA.*
+to exchange data with the SVK system of the Cental Bank of Russia, etc.: 
+JS HTA, PowerShell.*
 
 * *Development of the GUI frontend for Internet/Intranet Information System 
-on banking cards: ASP.NET, C#, SQL.*
+on banking cards: ASP.NET MVC, C#, MS SQL.*
 
 * *Design, maintenance and renovation of corporate websites: 
-Amiro.CMS, HTML5, PHP, CSS3, Javascript, jQuery.*
+Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.*
 
 * *Development of various software modules to automate bank data flows: 
-C#, VBA, Delphi, XML, DBF, CSV, scripting, etc.*
+C#, PowerShell, Excel VBA, JS HTA, CMD, Delphi, C++, YAML, JSON, XML, XSLT, 
+DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2017, 
+VS Code, PowerShell ISE, FAR.*
+
+* *DevOps on CI and version control systems: 
+Git, Mercurial, Github, Bitbucket, AppVeyor.*
 
 ### Chief Information Officer (CIO) at [ZAO «City Invest Bank»](http://www.cibank.ru/en/)
 November 1998 - May 2008 (9 years 7 months)
 
-*IT/Telecom projects management including budgeting, scheduling, 
-work planning, hardware/software purchase and work optimization. 
-Design and implementation of networks. Windows, Unix, Netware server 
-administration. Deployment and maintenance of corporate backup and 
-configuration management systems. Bank database and application development. 
-Datacenter duty shift management. New engineers recruitment.*
+*Management of IT and telecom projects, including budgeting and planning, 
+the acquisition of hardware / software and optimization of use. 
+Development and implementation of networks. 
+Administration of Windows, Unix, Netware. 
+Deploy and maintain corporate backup and configuration management systems. 
+Banking databases (ABS) and application development. 
+Preparation and control of the implementation of regulatory procedures. 
+Performing the functions of the SWIFT officer. 
+Selection of new employees and training.*
 
 * *Migration to BSS BS-Client: analysis of actual market proposals. 
 Carrying out negotiations with solution suppliers. 
@@ -89,7 +109,7 @@ in IT field and translation them into solutions or service requirements,
 technical specifications and commercial proposals.*
 
 * *Development of a complex warehouse system to account all orders and to 
-control wares movements, sales, reports: Excel, VBA.*
+control wares movements, sales, reports: Excel VBA.*
  
 ### Software Engineer at [ZAO «City Invest Bank»](http://www.cibank.ru/en/)
 February 1995 - October 1996 (1 year 9 months)
@@ -114,7 +134,7 @@ new paradigms.*
 * *Development of new graphical user interfaces for old databases: 
 Visual Basic, Clipper, DBF.*
 
-### Electronic Engineer at State Company «LenTechno»
+### Electronics Engineer at State Company «LenTechno»
 February 1993 - January 1994 (1 year)
 
 *Maintenance of distibuted sites of computers. Implementation of networks. 
@@ -128,7 +148,7 @@ January 1992 - November 1992 (6 months)
 *Application development for PC and mainframes.*
 
 * *Development of a PC software application to quickly enter the big data arrays 
-into mainframes: C, Fortran.*
+into mainframes: C, Fortran, FoxPro.*
 
 ## Education
 
@@ -158,7 +178,7 @@ of the right to professional activities in the field of information security.*
 ## Languages
 
 * Russian (native proficiency)
-* English (professional working proficiency)
+* English (I read professional literature)
 * Italiano (elementary proficiency)
 
 ## Military Service
