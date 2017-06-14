@@ -11,12 +11,14 @@
 .credits.left { float: left; }
 .credits.right { float: right; }
 
-@media print, screen and (max-width: 720px) { .credits { display: block; width: 100%; line-height: 30px; text-align: center; }
+@media print, screen and (max-width: 720px) { 
+  .credits { display: block; width: 100%; line-height: 30px; text-align: center; }
   .credits .left { float: none; display: block; }
   .credits .right { float: none; display: block; } }
-@media print, screen and (max-width: 480px) { #header { margin-top: -20px; }
+@media print, screen and (max-width: 480px) { 
+  #header { margin-top: -20px; }
+  article { margin-top: 40px; } }
 
-article { margin-top: 40px; }
 article img { max-width: 100%; }
 
 #footer { padding: 20px; }
