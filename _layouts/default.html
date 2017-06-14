@@ -1,9 +1,47 @@
-{% include init.html %}
+<!DOCTYPE html>
+{% if page.url == "/" or page.url == "/index.html" or page.url == "/en.html" %}
+  {% assign home = true %}
+{% endif %}
+{% if page.url contains "/about" %}
+  {% assign about = true %}
+{% endif %}
+{% if page.url contains "/en/" or page.url contains "/en.html" or page.url contains "-en.html" %}
+  {% assign en = true %}
+  {% assign lang = "en" %}
+  {% assign langx = "-en" %}
+  {% assign author = "Dmitrii Evdokimov" %}
+{% else %}
+  {% assign ru = true %}
+  {% assign lang = "ru" %}
+  {% assign langx = "" %}
+  {% assign author = "Дмитрий Евдокимов" %}
+{% endif %}
 <html lang="{{ lang }}">
   {% include head.html %}
   <body>
     <div class="wrapper">
-      {% include title.html %}
+      <hgroup>
+      {% if site.github.is_user_page %}
+        <div>
+        {% if en %}
+          <span class="credits left"><a href="/en" title="Home Page">{{ author }}</a></span>
+          <span class="credits right">En | <a href="{{ page.url | remove: "/en" }}" title="Russian language (по-русски)">Ru</a></span>
+        {% else %}
+          <span class="credits left"><a href="/" title="Home Page">{{ author }}</a></span>
+          <span class="credits right">Ru | <a href="/en{{ page.url }}" title="English language (по-английски)">En</a></span>
+        {% endif %}
+        </div>
+      {% endif %}
+      {% if site.github.is_project_page %}
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
+          <span class="credits left">Project by <a href="/{{ langx }}" title="Home Page">{{ author }}</a></span>
+          <span class="credits right">Hosted on <a href="{{ site.github.repository_url }}" title="Project">GitHub</a></span>
+        </div>
+      {% endif %}
+      </hgroup>
       <article>
         {{ content }}
       </article>
