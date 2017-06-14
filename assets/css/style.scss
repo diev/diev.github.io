@@ -3,11 +3,13 @@
 
 @import "{{ site.theme }}";
 
+h1 { margin-top: 50px; }
+
 #title { margin: 50px 0; font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; }
 #title h1 { font-size: 40px; line-height: 36px; }
 #title p { color: #d7cfbe; font-size: 18px; }
 
-.credits { font-size: 11px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; color: #696969; margin-top: -10px; }
+.credits { font-size: 11px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; color: #696969; }
 .credits.left { float: left; }
 .credits.right { float: right; }
 
@@ -15,9 +17,6 @@
   .credits { display: block; width: 100%; line-height: 30px; text-align: center; }
   .credits .left { float: none; display: block; }
   .credits .right { float: none; display: block; } }
-@media print, screen and (max-width: 480px) { 
-  #header { margin-top: -20px; }
-  article { margin-top: 40px; } }
 
 article img { max-width: 100%; }
 
