@@ -3,23 +3,37 @@
 
 @import "{{ site.theme }}";
 
-.wrapper section {
-  margin-top: 20px;
+#title {
+  margin: 50px 0;
+  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  text-align: center;
 }
-/*#footer table tbody tr td {
-  border-bottom: none; 
-  border-top: 1px solid #434343;
-}*/
-.credits.left {
+
+#title h1 {
+  font-size: 40px;
+  line-height: 36px;
+}
+
+#title p {
+  color: #d7cfbe;
+  font-size: 18px;
+}
+
+#title .credits.left {
   float: left;
 }
-.credits.right {
-  float: right;
-}
-.credits {
+
+#title .credits {
   font-size: 11px;
+  color: #696969;
+  margin-top: -10px;
 }
-h1 {
-  clear: both;
-  margin-bottom: 30px;
+
+article img {
+  max-width: 100%;
+}
+
+#footer {
+  padding: 20px;
 }
