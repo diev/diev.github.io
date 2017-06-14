@@ -1,61 +1,9 @@
-<!DOCTYPE html>
-{% if page.url == "/" or page.url == "/index.html" or page.url == "/en.html" %}
-  {% assign home = true %}
-{% endif %}
-{% if page.url contains "/about" %}
-  {% assign about = true %}
-{% endif %}
-{% if page.url contains "/en/" or page.url contains "/en.html" or page.url contains "-en.html" %}
-  {% assign en = true %}
-  {% assign lang = "en" %}
-  {% assign langx = "-en" %}
-  {% assign author = "Dmitrii Evdokimov" %}
-{% else %}
-  {% assign ru = true %}
-  {% assign lang = "ru" %}
-  {% assign langx = "" %}
-  {% assign author = "Дмитрий Евдокимов" %}
-{% endif %}
+{% include init.html %}
 <html lang="{{ lang }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--favicon-->
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" hrgef="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <!--/favicon-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-      <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  </head>
-
+  {% include head.html %}
   <body>
     <div class="wrapper">
       <hgroup>
-      {% if site.github.is_user_page %}
         <div>
         {% if en %}
           <span class="credits left"><a href="/en" title="Home Page">{{ author }}</a></span>
@@ -65,109 +13,11 @@
           <span class="credits right">Ru | <a href="/en{{ page.url }}" title="English language (по-английски)">En</a></span>
         {% endif %}
         </div>
-      {% endif %}
-      {% if site.github.is_project_page %}
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <span class="credits left">Project by <a href="/{{ langx }}" title="Home Page">{{ author }}</a></span>
-          <span class="credits right">Hosted on <a href="{{ site.github.repository_url }}" title="Project">GitHub</a></span>
-        </div>
-      {% endif %}
       </hgroup>
-
       <article>
         {{ content }}
       </article>
-
-      {% if site.github.is_project_page and home %}
-      <aside>
-        <h2>Downloads</h2>
-          <div><span class="spinning"></span></div>
-          <table class="table-downloads">
-            <thead>
-            {% if en %}
-              <th>Release Notes</th>
-              <th>Download</th>
-              <th>Date</th>
-            {% else %}
-              <th>Релизы и инфо</th>
-              <th>Скачать</th>
-              <th>Дата</th>
-            {% endif %}
-          </thead>
-          <tbody>
-          </tbody>
-        </table>
-
-        <script>
-          $.getJSON("http://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/releases").done(function(json) {
-            for (var i = 0; i < json.length; i++) {
-              var release = json[i];
-              if (release.assets.length === 0) {
-                continue;
-              }
-              for (var j = 0; j < release.assets.length; j++) {
-                var asset = release.assets[j];
-                var fileSize = Math.round(asset.size / 1024);
-                $(".table-downloads tbody")
-                  .append($("<tr>")
-                    .append($("<td>")
-                      .append($("<a>")
-                        .attr("href", release.html_url)
-                        .text(release.name)
-                      )
-                      .append(release.prerelease ? " (pre)" : "")
-                    )
-                    .append($("<td>")
-                      .append(asset.name + " ")
-                      .append($("<a>")
-                        .attr("href", asset.browser_download_url)
-                        .text(fileSize.toLocaleString() + "KB")
-                      )
-                    )
-                    .append($("<td>")
-                      .text(asset.updated_at.substring(0, 10))
-                    )
-                  );
-              }
-            }
-            $(".spinning").hide();
-            $(".table.downloads").fadeIn();
-          });
-        </script>
-
-        <noscript>
-          <p><a href="{{ site.github.releases_url }}" title="Releases">Releases on GitHub</a></p>
-        </noscript>
-      </aside>
-      {% endif %}
-
-      <footer>
-        <div id="footer">
-          <span class="credits left">&copy; 2016-{{ 'now' | date: "%Y" }}</span>
-          {% if en %}
-          <span class="credits right">{% if about %}About this site{% else %}<a href="/{{ lang }}/about">About this site</a>{% endif %}</span>
-          {% else %}
-          <span class="credits right">{% if about %}Об этом сайте{% else %}<a href="/about">Об этом сайте</a>{% endif %}</span>
-          {% endif %}
-        </div>
-
-        {% if site.google_analytics %}
-        <script type="text/javascript">
-          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-          document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script>
-
-        <script type="text/javascript">
-          try {
-            var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
-            pageTracker._trackPageview();
-          } catch(err) {}
-        </script>
-        {% endif %}
-      </footer>
+      {% include footer.html %}
     </div>
   </body>
 </html>
