@@ -7,8 +7,10 @@
       <article>
         {{ content }}
       </article>
-      {% if site.github.is_project_page and home %}
-      {% include downloads.html %}
+      {% if site.github.is_project_page %}
+        {% if home %}
+          {% include downloads.html %}
+        {% endif %}
       {% endif %}
       {% include footer.html %}
     </div>
