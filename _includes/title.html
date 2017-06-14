@@ -9,7 +9,8 @@
     <span class="credits right">Ru | <a href="/en{{ page.url }}" title="English language (по-английски)">En</a></span>
     {% endif %}
   </div>
-{% elseif site.github.is_project_page %}
+{% endif %}
+{% if site.github.is_project_page %}
   <div id="title">
     <h1>{{ site.title | default: site.github.repository_name }}</h1>
     <p>{{ site.description | default: site.github.project_tagline }}</p>
