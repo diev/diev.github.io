@@ -1,5 +1,7 @@
 # [diev.github.io](http://diev.github.io/)
 
+[![Build Status](https://travis-ci.org/diev/diev.github.io.svg?branch=master)](https://travis-ci.org/diev/diev.github.io)
+
 Dmitrii Evdokimov's Website. 
 Using [Jekyll](https://github.com/jekyll/jekyll).
 
