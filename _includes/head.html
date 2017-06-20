@@ -1,9 +1,14 @@
+<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
-<title>{{ site.title | default: site.github.repository_name }}</title>
-<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision }}">
-<!--favicon-->
+<title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -21,14 +26,11 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-<!--/favicon-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="/assets/js/respond.js"></script>
-<!--[if lt IE 9]>
-  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<!--[if lt IE 8]>
-  <link rel="stylesheet" href="/assets/css/ie.css">
-<![endif]-->
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 </head>
+{% assign languages = "ru en" | split: ' ' %}{% assign lang = languages | first %}
+{% capture pagelang %}{{ page.url | remove_first: '/' | split: '/' | first | default: lang }}{% endcapture %}
+{% if languages contains pagelang %}{% assign lang = pagelang %}{% endif %}
+<html lang="{{ lang }}">
+<body>
+<div class="wrapper">
+<section>

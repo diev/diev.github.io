@@ -16,9 +16,11 @@ right from your GitHub repositories.
 Theme based on [Midnight](https://github.com/pages-themes/midnight) 
 originally by [mattgraham](https://twitter.com/michigangraham).
 
-## A Feature
+## The Main Feature
 
 Herewith I try to make a multilanguage site by very simple things used.
+Currently there are a Russian (native by default) and an English 
+(international) versions available. You can add your language next.
 
 ## License
 

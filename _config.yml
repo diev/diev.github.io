@@ -1,16 +1,25 @@
-title: Dmitrii Evdokimov
-description: Personal Website
-google_analytics: 
-show_downloads:
+locales:
+  ru:
+    name: Дмитрий Евдокимов
+    tagline: Персональный сайт
+    home: Главная
+    path: /
+  en:
+    name: Dmitrii Evdokimov
+    tagline: Personal Website
+    home: Home Page
+    path: /en/
+
 theme: jekyll-theme-midnight
+google_analytics: 
 
 defaults:
-  -
+  - 
     scope:
-      path: "_docs"
-      type: "docs"
+      path: _docs
+      type: docs
     values:
-      layout: "default"
+      layout: default
 
 collections:
   docs:
@@ -30,3 +39,6 @@ exclude:
   - .gitignore
   - README.md
   - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock

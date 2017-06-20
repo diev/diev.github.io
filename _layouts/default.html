@@ -1,23 +1,14 @@
-{% include init.html %}
-<html lang="{{ lang }}">
-  {% include head.html %}
-  <body>
-    <div class="wrapper">
-      <hgroup>
-        <div id="title">
-        {% if en %}
-          <span class="credits left"><a href="/en" title="Home Page">{{ author }}</a></span>
-          <span class="credits right">En | <a href="{{ page.url | remove: "/en" }}" title="Russian language (по-русски)">Ru</a></span>
-        {% else %}
-          <span class="credits left"><a href="/" title="Home Page">{{ author }}</a></span>
-          <span class="credits right">Ru | <a href="/en{{ page.url }}" title="English language (по-английски)">En</a></span>
-        {% endif %}
-        </div>
-      </hgroup>
-      <article>
-        {{ content }}
-      </article>
-      {% include footer.html %}
-    </div>
-  </body>
-</html>
+{% include head.html %}
+<hgroup>
+<div id="title">
+<span class="credits left"><a href="{{ site.locales[lang].path }}" title="{{ site.locales[lang].home }}">{{ site.locales[lang].name }}</a></span>
+<span class="credits right">{% case lang %}
+{% when 'en' %} En | <a href="{{ page.url | remove: '/en' }}" title="Russian language (по-русски)">Ru</a>
+{% when 'ru' %} Ru | <a href="/en{{ page.url }}" title="English language (по-английски)">En</a>
+{% endcase %}</span>
+</div>
+</hgroup>
+<article>
+{{ content }}
+</article>
+{% include footer.html %}
