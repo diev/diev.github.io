@@ -3,11 +3,6 @@
 Projects
 ========
 
-## [ListXML](/ListXML)
-*A parser of XML files to recomposite them according to a set of rules: C#.*
-
-2009 - Present
-   
 ## [PTK-PSD Browser](/PTK-PSD-Browser-hta)
 *So-development of a set of lightweight HTA utilities to browse data with the 
 PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels 
