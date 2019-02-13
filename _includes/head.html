@@ -1,4 +1,8 @@
 <!doctype html>
+{% assign languages = "ru en" | split: ' ' %}{% assign lang = languages | first %}
+{% capture pagelang %}{{ page.url | remove_first: '/' | split: '/' | first | default: lang }}{% endcapture %}
+{% if languages contains pagelang %}{% assign lang = pagelang %}{% endif %}
+<html lang="{{ lang }}">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -27,11 +31,3 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-</head>
-{% assign languages = "ru en" | split: ' ' %}{% assign lang = languages | first %}
-{% capture pagelang %}{{ page.url | remove_first: '/' | split: '/' | first | default: lang }}{% endcapture %}
-{% if languages contains pagelang %}{% assign lang = pagelang %}{% endif %}
-<html lang="{{ lang }}">
-<body>
-<div class="wrapper">
-<section>

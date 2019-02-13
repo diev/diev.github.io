@@ -20,10 +20,18 @@ defaults:
       type: docs
     values:
       layout: default
+  - 
+    scope:
+      path: assets/img
+    values:
+      image: true
 
 collections:
   docs:
     permalink: /:path/
+    output: true
+  papers:
+    permalink: /:collection/:path
     output: true
 
 gems:
