@@ -1,6 +1,6 @@
 {% include head.html %}
 <style type="text/css">
-#content {
+article {
 background-color: #ffc;
 color: black;
 margin: 0;
@@ -14,15 +14,14 @@ margin-right: 10px;
 </head>
 <body>
 <div class="wrapper">
+<section>
 <hgroup>
 <div id="title">
 <span class="credits left"><a href="{{ site.locales[lang].path }}" title="{{ site.locales[lang].home }}">{{ site.locales[lang].name }}</a></span>
 </div>
 </hgroup>
 <article>
-<div id="content">
 {{ content }}
-</div>
 </article>
 <footer>
 <div id="footer">
@@ -30,6 +29,7 @@ margin-right: 10px;
 <p>Все права остаются за соответствующими авторами.<br>Оцифровано для сохранения на память.</p>
 </div>
 </footer>
+</section>
 </div>
 </body>
 </html>
