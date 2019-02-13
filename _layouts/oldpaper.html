@@ -1,11 +1,35 @@
 {% include head.html %}
 <style type="text/css">
-  body {
-    background-color: #FFFFCC;
-  }
+#content {
+background-color: #ffc;
+color: black;
+margin: 0;
+padding: 1em 0;
+}
+img {
+float: left;
+margin-right: 10px;
+}
 </style>
-{% include body.html %}
+</head>
+<body>
+<div class="wrapper">
+<hgroup>
+<div id="title">
+<span class="credits left"><a href="{{ site.locales[lang].path }}" title="{{ site.locales[lang].home }}">{{ site.locales[lang].name }}</a></span>
+</div>
+</hgroup>
 <article>
+<div id="content">
 {{ content }}
+</div>
 </article>
-{% include footer.html %}
+<footer>
+<div id="footer">
+<p>{{ page.origin }}<br>{{ page.issued }}</p>
+<p>Все права остаются за соответствующими авторами.<br>Оцифровано для сохранения на память.</p>
+</div>
+</footer>
+</div>
+</body>
+</html>
