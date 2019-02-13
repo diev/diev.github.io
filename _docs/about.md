@@ -3,13 +3,22 @@
 Об этом сайте
 =============
 
-<img alt="" class="avatar width-full rounded-2" height="230" src="https://avatars3.githubusercontent.com/u/2707312?v=3&s=460" width="230">
+![avatar]
 
 dievdo.ru:
 
-На содержимое лицензия [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/deed.ru) (CC BY 4.0).  
-Построен на [Jekyll](http://jekyllrb.com/).  
-Хостится на [GitHub](http://github.com/diev/diev.github.io) благодаря [GitHub Pages](http://pages.github.com/).  
-Тема основана на [Midnight](https://pages-themes.github.io/midnight/) изначально авторства [mattgraham](https://twitter.com/michigangraham "Twitter").
+На содержимое лицензия [Creative Commons Attribution 4.0 International License] (CC BY 4.0).  
+Построен на [Jekyll].  
+Хостится на [GitHub] благодаря [GitHub Pages].  
+Тема основана на [Midnight] изначально авторства [mattgraham].
 
 Работы продолжаются.
+
+[avatar]: https://avatars3.githubusercontent.com/u/2707312?v=3&s=460
+
+[Creative Commons Attribution 4.0 International License]: http://creativecommons.org/licenses/by/4.0/deed.ru
+[Jekyll]: http://jekyllrb.com/
+[GitHub]: http://github.com/diev/diev.github.io
+[GitHub Pages]: http://pages.github.com/
+[Midnight]: https://pages-themes.github.io/midnight/
+[mattgraham]: https://twitter.com/michigangraham "Twitter"

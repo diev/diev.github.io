@@ -6,10 +6,23 @@ permalink: /en/
 
 Personal Website
 
-|En                       |[Ru](/ "Russian language (по-русски)")|
-|-------------------------|--------------------------------------|
-|[About](/en/about)       |[О сайте](/about)                     |
-|[Projects](/en/projects) |[Проекты](/projects)                  |
-|[Resume (CV)](/en/resume)|[Резюме](/resume)                     |
-|[GitHub](/en/github)     |                                      |
-|                         |[Facebook](https://www.facebook.com/dmitrii.evdokimov)|
+| En            | [Ru]       |
+|---------------|------------|
+| [About]       | [О сайте]  |
+| [Projects]    | [Проекты]  |
+| [Resume (CV)] | [Резюме]   |
+| [GitHub]      |            |
+|               | [Facebook] |
+
+
+[Ru]: / "Russian language (по-русски)"
+
+[About]: /en/about
+[Projects]: /en/projects
+[Resume (CV)]: /en/resume
+[GitHub]: /en/github
+
+[О сайте]: /about
+[Проекты]: /projects
+[Резюме]: /resume
+[Facebook]: https://www.facebook.com/dmitrii.evdokimov
