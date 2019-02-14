@@ -34,7 +34,7 @@ collections:
     permalink: /:collection/:path
     output: true
 
-gems:
+plugins:
   - jekyll-avatar
   - jekyll-feed
   - jekyll-mentions
