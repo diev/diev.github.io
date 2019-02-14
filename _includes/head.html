@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta name="p:domain_verify" content="6fbbdf62c66b4878947405057a80a80d"/>
-<title>{{% if page.title %}}page.title{{% else %}}{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}{{% endif %}}</title>
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}{% endif %}</title>
 <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script-->
 <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
