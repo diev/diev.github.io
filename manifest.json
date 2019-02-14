@@ -1,5 +1,9 @@
 {
- "name": "App",
+ "name": "DE",
+ "short_name":"DE",
+ "theme_color":"#252525",
+ "background_color":"#252525",
+ "display":"standalone",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
