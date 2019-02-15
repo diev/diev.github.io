@@ -11,6 +11,7 @@ locales:
     path: /en/
 
 theme: jekyll-theme-midnight
+
 google_analytics: 
 
 defaults:
@@ -27,11 +28,14 @@ defaults:
       image: true
 
 collections:
+  root:
+    permalink: /
+    output: true
   docs:
     permalink: /:path/
     output: true
   papers:
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
     output: true
 
 plugins:
