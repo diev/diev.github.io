@@ -3,7 +3,7 @@
 Dmitrii Evdokimov
 =================
 
-12 April 1970 (48 years old), married.
+12 April 1970 (49 years old), married.
 
 CISO - Chief Information Security Officer at 
 [AO «City Invest Bank»](http://www.cibank.ru/en/)  
@@ -13,7 +13,8 @@ Education: [IT Academy Russia](http://www.academy.it.ru/), SPbGUAP (LIAP)
 
 Site: [dievdo.ru](/)  
 ~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
-Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
+Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)  
+GitHub: [diev](https://github.com/diev)
 
 ## Summary
 
@@ -41,11 +42,11 @@ Development of software for internal use.*
 
 * *A full cycle of works with cryptographic protection and maintenance 
 of key infrastructure: 
-Verba-OW, Signature, Validate, CryptoPRO, PKI, GPG, PGP, SSH, eToken, ruToken.*
+Verba-OW, Signatura, Validata, CryptoPRO, PKI, GPG, PGP, SSH, eToken, ruToken.*
 
 * *Administration, access and security: 
 ARM CBR, PTK PSD, Microsoft AD, SQL, SharePoint, IIS, CentOS, KVM, Samba, 
-Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA, KAV, iRedAdmin, 
+Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA/ESMC, KAV, iRedAdmin, 
 Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI, FineReaderBANK.*
 
 * *A parser of XML data files of the Cental Bank of Russia to recomposite them 

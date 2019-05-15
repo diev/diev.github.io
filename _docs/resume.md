@@ -3,7 +3,7 @@
 Евдокимов Дмитрий Леонидович
 ============================
 
-12 апреля 1970 (48 лет), женат.
+12 апреля 1970 (49 лет), женат.
 
 Начальник службы информационной безопасности 
 [АО «Сити Инвест Банк»](http://www.cibank.ru/)  
@@ -13,7 +13,8 @@
 
 Сайт: [dievdo.ru](/)  
 ~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
-Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)
+Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)  
+GitHub: [diev](https://github.com/diev)
 
 ## Общие сведения
 
@@ -46,7 +47,7 @@ PGP, SSH, eToken, ruToken.*
 
 * *Администрирование, обеспечение доступа и безопасности: 
 АРМ КБР, ПТК ПСД, Microsoft AD, SQL, SharePoint, IIS, CentOS, KVM, 
-Samba, Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA, 
+Samba, Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA/ESMC, 
 KAV, iRedAdmin, Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI.*
 
 * *Интеллектуальная обработка полученного из СВК Банка России, 
@@ -57,7 +58,7 @@ KAV, iRedAdmin, Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI.*
 C#.*
 
 * *Соавтор популярных в банковской среде программ 
-SVKTrans[*](/SVK-Transport-hta) и 
+TshTrans[*](/TSH-Transport-hta), SVKTrans[*](/SVK-Transport-hta) и 
 PTK PSD Browser[*](/PTK-PSD-Browser-hta) - прием и отправка 
 платежной XML информации, бинарных информационных и файлов 
 статистики по HTTP протоколу в СВК Банка России (собственный 
