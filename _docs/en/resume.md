@@ -5,11 +5,13 @@ Dmitrii Evdokimov
 
 12 April 1970 (49 years old), married.
 
-CISO - Chief Information Security Officer at 
-[AO «City Invest Bank»](http://www.cibank.ru/en/)  
+CISO - Chief Information Security Officer at [AO «City Invest Bank»]  
 St.Petersburg, Russia
 
-Education: [IT Academy Russia](http://www.academy.it.ru/), SPbGUAP (LIAP)
+High Education:
+
+* [IT Academy Russia], 2015
+* [SPbGUAP] (LIAP), 2001
 
 Site: [dievdo.ru](/)  
 ~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
@@ -26,7 +28,7 @@ of data flow procedures and transformations.
 
 ## Experience
 
-### Chief Information Security Officer (CISO) at [AO «City Invest Bank»](http://www.cibank.ru/en/)
+### Chief Information Security Officer (CISO) at [AO «City Invest Bank»]
 June 2008 - Present (more 10 years)
 
 *Provision of information security (IB) of the bank in accordance with 
@@ -65,13 +67,13 @@ Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.*
 
 * *Development of various software modules to automate bank data flows: 
 C#, PowerShell, Excel VBA, JS HTA, CMD, Delphi, C++, YAML, JSON, XML, XSLT, 
-DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2017, 
+DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2017-2019, 
 VS Code, PowerShell ISE, FAR.*
 
 * *DevOps on CI and version control systems: 
-Git, Mercurial, Github, Bitbucket, AppVeyor.*
+Git, Mercurial, [GitHub], Bitbucket, AppVeyor.*
 
-### Chief Information Officer (CIO) at [ZAO «City Invest Bank»](http://www.cibank.ru/en/)
+### Chief Information Officer (CIO) at [ZAO «City Invest Bank»]
 November 1998 - May 2008 (9 years 7 months)
 
 *Management of IT and telecom projects, including budgeting and planning, 
@@ -112,7 +114,7 @@ technical specifications and commercial proposals.*
 * *Development of a complex warehouse system to account all orders and to 
 control wares movements, sales, reports: Excel VBA.*
  
-### Software Engineer at [ZAO «City Invest Bank»](http://www.cibank.ru/en/)
+### Software Engineer at [ZAO «City Invest Bank»]
 February 1995 - October 1996 (1 year 9 months)
 
 *Design of infrastructure and software products needed to solve stated tasks. 
@@ -151,30 +153,26 @@ January 1992 - November 1992 (6 months)
 * *Development of a PC software application to quickly enter the big data arrays 
 into mainframes: C, Fortran, FoxPro.*
 
-## Education
+## High Education
 
-### [IT Academy Russia](http://www.academy.it.ru/)
-
-* 2015 Diploma for the right to carry out professional activities.  
-090104 (075400) "The complex protection of objects of informatization".
+### 2015 - Diploma for the right to carry out professional activities
+090104 (075400) "The complex protection of objects of informatization"
+at [IT Academy Russia].
 
   *Professional retraining (540 hours) at IT Academy on the program 
 "The complex protection of objects of information" with the certificate 
 of the right to professional activities in the field of information security.*
 
-### [Academy of Information Systems](http://infosystems.ru/)
+### 2001 - Bachelor's degree
+552800 "Computer Science and Engineering" and
+1992 - some of 22.02 "Automated Systems of Information Processing and Control"
+at [St.Petersburg State University of Aerospace Instrumentation].
 
-* 2009 Certificate of professional development.  
+## Courses
+
+### 2009 - Certificate of professional development
 "Information security with using of encryption (cryptographic) means" 
-*(72 hours)*
-
-### [St.Petersburg State University of Aerospace Instrumentation](http://suai.ru/)
-
-* 2000 - 2001 Bachelor's degree.  
-552800 "Computer Science and Engineering".
-
-* 1987 - 1992 Several courses.  
-22.02 "Automated Systems of Information Processing and Control".
+at [Academy of Information Systems], *72 hours*.
 
 ## Languages
 
@@ -183,7 +181,7 @@ of the right to professional activities in the field of information security.*
 * Italiano (elementary proficiency)
 
 ## Military Service
-July 1998 - September 1989 (1 year 2 months)
+July 1988 - September 1989 (1 year 2 months)
 
 ## Volunteer Experience
 
@@ -191,3 +189,17 @@ July 1998 - September 1989 (1 year 2 months)
 *Since 2002 - writing haiku and tanka in Japanese traditions, participation 
 in the drafting of renga and haiga, international translating, consulting 
 services for beginners, participation in contests and juries.*
+
+
+[AO «City Invest Bank»]: http://www.cibank.ru/en/
+[ZAO «City Invest Bank»]: http://www.cibank.ru/en/
+[IT Academy Russia]: http://www.academy.it.ru/
+[Academy of Information Systems]: http://infosystems.ru/
+[SPbGUAP]: http://guap.ru/
+[St.Petersburg State University of Aerospace Instrumentation]: http://suai.ru/
+
+[GitHub]: https://github.com/diev
+[SVKTrans]: /SVK-Transport-hta
+[PTK PSD Browser]: /PTK-PSD-Browser-hta
+[FineReaderBANK]: /ConvertFRBtoABS
+[Excel VBA]: /Excel-VBA-Collection
