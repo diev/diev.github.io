@@ -1,7 +1,7 @@
 ---
 layout: ideas
 title: Крокеты по-японски
-origin: PANASONIC: IDEAS FOR LIFE
+origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
 ![](/assets/img/papers/haiku/55.jpg)

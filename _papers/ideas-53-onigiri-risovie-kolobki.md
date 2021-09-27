@@ -1,7 +1,7 @@
 ---
 layout: ideas
 title: Онигири: рисовые колобки по-японски
-origin: PANASONIC: IDEAS FOR LIFE
+origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
 ![](/assets/img/papers/haiku/53.jpg)

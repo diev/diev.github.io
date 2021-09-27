@@ -1,7 +1,7 @@
 ---
 layout: ideas
 title: Белый день: что дарят в Японии
-origin: PANASONIC: IDEAS FOR LIFE
+origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
 > Ольга Хованчук

@@ -1,7 +1,7 @@
 ---
 layout: ideas
 title: Что такое аниме?
-origin: PANASONIC: IDEAS FOR LIFE
+origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
 ![](/assets/img/papers/haiku/50.jpg)

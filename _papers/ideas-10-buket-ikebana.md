@@ -1,7 +1,7 @@
 ---
 layout: ideas
 title: Букет & икэбана
-origin: PANASONIC: IDEAS FOR LIFE
+origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
 > Ольга Фомичева

@@ -1,7 +1,7 @@
 ---
 layout: ideas
 title: Искусство для искушенных
-origin: PANASONIC: IDEAS FOR LIFE
+origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
 > Ольга Ключарева
