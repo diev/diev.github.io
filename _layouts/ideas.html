@@ -1,0 +1,41 @@
+{% include head.html %}
+<style type="text/css">
+section {
+margin: 20px 0;
+}
+article {
+background-color: #ffc;
+color: black;
+margin: 0;
+padding: 2em;
+}
+img {
+float: left;
+margin-right: 10px;
+}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<section>
+<hgroup>
+<div id="title">
+<span class="credits left"><a href="{{ site.locales[lang].path }}" title="{{ site.locales[lang].home }}">{{ site.locales[lang].name }}</a></span>
+</div>
+<p>{{ page.origin }}<br>{{ page.issued }}</p>
+</hgroup>
+<article>
+{{ content }}
+</article>
+{% case page.origin % }
+{% when 'PANASONIC: IDEAS FOR LIFE' %}<hr/><a href="/papers/ideas-00">Оглавление</a>
+{% endcase % }
+<footer>
+<div id="footer">
+<p>Все права остаются за соответствующими авторами.<br>Оцифровано для сохранения на память.</p>
+</div>
+</footer>
+</section>
+</div>
+</body>
+</html>
