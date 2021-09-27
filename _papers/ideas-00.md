@@ -1,7 +1,7 @@
 ---
 layout: oldpaper
-title: Идеи: Оглавление
-origin: PANASONIC: IDEAS FOR LIFE
+title: "Идеи для жизни: Оглавление"
+origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
 * [Праздничная весна](/papers/ideas-01-prazdnichnaya-vesna)
