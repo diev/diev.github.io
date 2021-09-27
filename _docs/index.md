@@ -6,13 +6,13 @@ permalink: /
 
 Персональный сайт
 
-| [En]          | Ru         |
-|---------------|------------|
-| [About]       | [О сайте]  |
-| [Projects]    | [Проекты]  |
-| [Resume (CV)] | [Резюме]   |
-| [GitHub]      |            |
-|               | [Facebook] |
+| [En]          | Ru          |
+|---------------|-------------|
+| [About]       | [О сайте]   |
+| [Projects]    | [Проекты]   |
+| [Resume (CV)] | [Резюме]    |
+| [GitHub]      | [GitHub.ru] |
+|               | [Facebook]  |
 
 
 [En]: /en "English language (по-английски)"
@@ -25,4 +25,5 @@ permalink: /
 [О сайте]: /about
 [Проекты]: /projects
 [Резюме]: /resume
+[GitHub.ru]: /github
 [Facebook]: https://www.facebook.com/dmitrii.evdokimov

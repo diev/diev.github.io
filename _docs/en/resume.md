@@ -3,7 +3,7 @@
 Dmitrii Evdokimov
 =================
 
-12 April 1970 (49 years old), married.
+12 April 1970 (51 years old), married.
 
 CISO - Chief Information Security Officer at [AO «City Invest Bank»]  
 St.Petersburg, Russia
@@ -14,7 +14,7 @@ High Education:
 * [SPbGUAP] (LIAP), 2001
 
 Site: [dievdo.ru](/)  
-~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~  
+~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~ (closed in Russia)  
 Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)  
 GitHub: [diev](https://github.com/diev)
 
@@ -33,7 +33,7 @@ June 2008 - Present (more 10 years)
 
 *Provision of information security (IB) of the bank in accordance with 
 the requirements of regulators and counterparties: Bank of Russia 
-(STO BR, 382-P, 552-P, FinCERT), FSB, FSTEC (Personal Data), SMEV, 
+(STO BR, 382-P, 683-P, GOST, FinCERT), FSB, FSTEC (Personal Data), SMEV, 
 Treasury, Moscow Stock Exchange, NBKI, VISA (PCI DSS), SWIFT, FATCA IDES. 
 Analysis of business processes, IT and telecom infrastructure of the bank 
 in order to protect them against various security threats, organization 
@@ -51,8 +51,10 @@ ARM CBR, PTK PSD, Microsoft AD, SQL, SharePoint, IIS, CentOS, KVM, Samba,
 Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA/ESMC, KAV, iRedAdmin, 
 Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI, FineReaderBANK.*
 
-* *A parser of XML data files of the Cental Bank of Russia to recomposite them 
-according to a set of rules: C#.*
+* *Development of tools for current needs like an ACL explorer [WhoCan] or
+a parser of XML data files of the Cental Bank of Russia to recomposite them
+according to a set of rules:
+C#, WPF, console, Python, CMD.*
 
 * *So-development of a set of lightweight HTA utilities to browse data with the 
 PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels, 
@@ -67,7 +69,7 @@ Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.*
 
 * *Development of various software modules to automate bank data flows: 
 C#, PowerShell, Excel VBA, JS HTA, CMD, Delphi, C++, YAML, JSON, XML, XSLT, 
-DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2017-2019, 
+DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2019, 
 VS Code, PowerShell ISE, FAR.*
 
 * *DevOps on CI and version control systems: 
@@ -153,26 +155,24 @@ January 1992 - November 1992 (6 months)
 * *Development of a PC software application to quickly enter the big data arrays 
 into mainframes: C, Fortran, FoxPro.*
 
-## High Education
+## Education (High)
 
 ### 2015 - Diploma for the right to carry out professional activities
 090104 (075400) "The complex protection of objects of informatization"
 at [IT Academy Russia].
 
-  *Professional retraining (540 hours) at IT Academy on the program 
+*Professional retraining (540 hours) at IT Academy on the program 
 "The complex protection of objects of information" with the certificate 
 of the right to professional activities in the field of information security.*
+
+### 2009 - Certificate of professional development
+"Information security with using of encryption (cryptographic) means" 
+at [Academy of Information Systems], *72 hours*.
 
 ### 2001 - Bachelor's degree
 552800 "Computer Science and Engineering" and
 1992 - some of 22.02 "Automated Systems of Information Processing and Control"
 at [St.Petersburg State University of Aerospace Instrumentation].
-
-## Courses
-
-### 2009 - Certificate of professional development
-"Information security with using of encryption (cryptographic) means" 
-at [Academy of Information Systems], *72 hours*.
 
 ## Languages
 
@@ -183,13 +183,6 @@ at [Academy of Information Systems], *72 hours*.
 ## Military Service
 July 1988 - September 1989 (1 year 2 months)
 
-## Volunteer Experience
-
-* Member of the International Haiku Society  
-*Since 2002 - writing haiku and tanka in Japanese traditions, participation 
-in the drafting of renga and haiga, international translating, consulting 
-services for beginners, participation in contests and juries.*
-
 
 [AO «City Invest Bank»]: http://www.cibank.ru/en/
 [ZAO «City Invest Bank»]: http://www.cibank.ru/en/
@@ -199,6 +192,7 @@ services for beginners, participation in contests and juries.*
 [St.Petersburg State University of Aerospace Instrumentation]: http://suai.ru/
 
 [GitHub]: https://github.com/diev
+[WhoCan]: /WhoCan
 [SVKTrans]: /SVK-Transport-hta
 [PTK PSD Browser]: /PTK-PSD-Browser-hta
 [FineReaderBANK]: /ConvertFRBtoABS

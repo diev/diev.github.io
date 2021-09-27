@@ -12,7 +12,7 @@ dievdo.ru:
 Хостится на [GitHub] благодаря [GitHub Pages].  
 Тема основана на [Midnight] изначально авторства [mattgraham].
 
-Работы продолжаются.
+Тестовая лаборатория для GitHub Pages. Работы продолжаются.
 
 [avatar]: https://avatars3.githubusercontent.com/u/2707312?v=3&s=460
 

@@ -12,7 +12,7 @@ Powered by [Jekyll].
 Hosted on [GitHub] thanks to [GitHub Pages].  
 Theme based on [Midnight] originally by [mattgraham].
 
-A work in progress.
+It is a test lab for GitHub Pages. A work in progress.
 
 [avatar]: https://avatars3.githubusercontent.com/u/2707312?v=3&s=460
 
