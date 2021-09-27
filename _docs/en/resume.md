@@ -5,7 +5,7 @@ Dmitrii Evdokimov
 
 12 April 1970 (51 years old), married.
 
-CISO - Chief Information Security Officer at [AO «City Invest Bank»]  
+**CISO - Chief Information Security Officer** at [AO «City Invest Bank»]  
 St.Petersburg, Russia
 
 High Education:
@@ -25,6 +25,8 @@ security.
  - Broad experience in developing of bank processes, skills in automatization 
 of data flow procedures and transformations.
  - A number of programing languages and developer environments.
+
+---
 
 ## Experience
 
@@ -163,6 +165,8 @@ Application development for PC and mainframes.
  - Development of a PC software application to quickly enter the big data arrays 
 into mainframes: C, Fortran, FoxPro.
 
+---
+
 ## Education (High)
 
 ### 2015 - Diploma for the right to carry out professional activities
@@ -185,27 +189,31 @@ at [Academy of Information Systems], *72 hours*.
 1992 - some of 22.02 "Automated Systems of Information Processing and Control"
 at [St.Petersburg State University of Aerospace Instrumentation].
 
+---
+
 ## Languages
 
  - Russian (native proficiency)
  - English (I read professional literature)
  - Italiano (elementary proficiency)
 
+---
+
 ## Military Service
 
 July 1988 - September 1989 (1 year 2 months)
 
 
-[AO «City Invest Bank»]: http://www.cibank.ru/en/
-[ZAO «City Invest Bank»]: http://www.cibank.ru/en/
+[AO «City Invest Bank»]: https://www.cibank.ru/en/
+[ZAO «City Invest Bank»]: https://www.cibank.ru/en/
 [IT Academy Russia]: http://www.academy.it.ru/
 [Academy of Information Systems]: http://infosystems.ru/
 [SPbGUAP]: http://guap.ru/
 [St.Petersburg State University of Aerospace Instrumentation]: http://suai.ru/
 
 [GitHub]: https://github.com/diev
+[Projects]: /en/projects "Software Projects done"
 [WhoCan]: /WhoCan
-[WhoCan]: /en/projects
 [SVKTrans]: /SVK-Transport-hta
 [PTK PSD Browser]: /PTK-PSD-Browser-hta
 [FineReaderBANK]: /ConvertFRBtoABS
