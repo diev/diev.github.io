@@ -6,26 +6,26 @@ permalink: /en/
 
 Personal Website
 
-| En:           | [Ru]:      |
-|---------------|------------|
-| [About]       | [О сайте]  |
-| [Projects]    | [Проекты]  |
-| [Resume (CV)] | [Резюме]   |
-| [GitHub]      | [Гитхаб]   |
-|               | [Facebook] |
-|               | [Вырезки]  |
+| En:           | [Ru]:      |   |
+|---------------|------------|---|
+| [About]       | [О сайте]  | About this website  |
+| [Projects]    | [Проекты]  | Descriptions of some projects and the time of their service  |
+| [Resume (CV)] | [Резюме]   | My resume (CV) for a job offer |
+| [GitHub]      | [Гитхаб]   | My opensource projects in alphabet order |
+|               | [Facebook] | My life posts |
+|               | [Вырезки]  | Clippings from old newspapers and magazines | 
 
 
 [Ru]: / "Russian language (по-русски)"
 
 [About]: /en/about "About this website"
-[Projects]: /en/projects "My opensource projects in the alphabetic order"
-[Resume (CV)]: /en/resume "My resume for a job offer"
-[GitHub]: /en/github "My GitHub with projects"
+[Projects]: /en/projects "Descriptions of some projects and the time of their service"
+[Resume (CV)]: /en/resume "My resume (CV) for a job offer"
+[GitHub]: /en/github "My opensource projects in alphabet order"
 
 [О сайте]: /about "Об этом сайте"
-[Проекты]: /projects "Открытые проекты в алфавитном порядке"
+[Проекты]: /projects "Описания некоторых моих проектов и время их использования"
 [Резюме]: /resume "Моё резюме для рассмотрения"
-[Гитхаб]: /github "Мой GitHub с проектами"
+[Гитхаб]: /github "Открытые проекты в алфавитном порядке"
 [Facebook]: https://www.facebook.com/dmitrii.evdokimov "Основная соцсеть (mostly in Russian)"
 [Вырезки]: /papers "Вырезки из старых газет и журналов (mostly in Russian)"

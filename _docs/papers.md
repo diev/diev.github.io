@@ -5,7 +5,11 @@ title: Вырезки
 ==================================
 
 {% for paper in site.papers %}
-<a name="#{{ paper.title | slugify }}"></a>[{{ paper.title }}]({{ paper.url }} "{{ paper.origin }}")  
-*{{ paper.origin }}*  
-*{{ paper.issued }}*
+<section>
+<a name="#{{ paper.title | slugify }}"></a>
+## [{{ paper.title }}]({{ paper.url }} "{{ paper.origin }}")
+
+{{ paper.origin }}  
+{{ paper.issued }}
+</section>
 {% endfor %}
