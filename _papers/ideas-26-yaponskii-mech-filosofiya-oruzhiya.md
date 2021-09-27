@@ -1,6 +1,6 @@
 ---
 layout: ideas
-title: Японский меч: философия оружия
+title: "Японский меч: философия оружия"
 origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---

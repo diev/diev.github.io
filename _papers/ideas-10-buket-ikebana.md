@@ -1,6 +1,6 @@
 ---
 layout: ideas
-title: Букет & икэбана
+title: "Букет & икэбана"
 origin: "PANASONIC: IDEAS FOR LIFE"
 issued: "#3, 2004"
 ---
