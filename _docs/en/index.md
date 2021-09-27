@@ -13,6 +13,7 @@ Personal Website
 | [Resume (CV)] | [Резюме]   |
 | [GitHub]      | [Гитхаб]   |
 |               | [Facebook] |
+|               | [Вырезки]  |
 
 
 [Ru]: / "Russian language (по-русски)"
@@ -27,3 +28,4 @@ Personal Website
 [Резюме]: /resume "Моё резюме для рассмотрения"
 [Гитхаб]: /github "Мой GitHub с проектами"
 [Facebook]: https://www.facebook.com/dmitrii.evdokimov "Основная соцсеть (mostly in Russian)"
+[Вырезки]: /papers "Вырезки из старых газет и журналов (mostly in Russian)"
