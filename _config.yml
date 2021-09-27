@@ -26,12 +26,6 @@ defaults:
       path: assets/img
     values:
       image: true
-  - 
-    scope:
-      path: _papers
-      type: papers
-    values:
-      layout: oldpaper
 
 collections:
   root:
