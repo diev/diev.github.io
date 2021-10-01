@@ -14,9 +14,12 @@
  - [СПбГУАП] (ЛИАП), 2001
 
 Сайт: [dievdo.ru](/)  
-~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~ (закрыт в РФ)  
-Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)  
-GitHub: [diev](https://github.com/diev)
+~~LinkedIn: [{{ site.data.contacts.LinkedIn.name }}]({{ site.data.contacts.LinkedIn.url }})~~ (закрыт в РФ)  
+Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})  
+GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
+Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
+WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})  
+E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
 
 ## Общие сведения
 
@@ -220,10 +223,10 @@ Visual Basic, Clipper, DBF.
 
 [АО «Сити Инвест Банк»]: https://www.cibank.ru/
 [ЗАО «Сити Инвест Банк»]: https://www.cibank.ru/
-[Академия АйТи]: http://www.academy.it.ru/
-[Академия информационых систем]: http://infosystems.ru/
-[СПбГУАП]: http://guap.ru/
-[Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения]: http://guap.ru/
+[Академия АйТи]: https://www.academy.it.ru/
+[Академия информационых систем]: https://infosystems.ru/
+[СПбГУАП]: https://guap.ru/
+[Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения]: https://guap.ru/
 
 [GitHub]: https://github.com/diev
 [Проекты]: /projects "Выполненные проекты ПО"

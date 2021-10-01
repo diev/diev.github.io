@@ -34,9 +34,6 @@ collections:
   docs:
     permalink: /:path/
     output: true
-  papers:
-    permalink: /:collection/:path/
-    output: true
 
 plugins:
   - jekyll-avatar

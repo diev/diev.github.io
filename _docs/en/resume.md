@@ -13,10 +13,13 @@ High Education:
  - [IT Academy Russia], 2015
  - [SPbGUAP] (LIAP), 2001
 
-Site: [dievdo.ru](/)  
-~~LinkedIn: [dievdo](https://www.linkedin.com/in/dievdo)~~ (closed in Russia)  
-Facebook: [dmitrii.evdokimov](https://www.facebook.com/dmitrii.evdokimov)  
-GitHub: [diev](https://github.com/diev)
+Site: [dievdo.ru/en/](/en/)  
+LinkedIn: [{{ site.data.contacts.LinkedIn.name }}]({{ site.data.contacts.LinkedIn.url }})  
+Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})  
+GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
+Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
+WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})  
+E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
 
 ## Summary
 
@@ -206,9 +209,9 @@ July 1988 - September 1989 (1 year 2 months)
 
 [AO «City Invest Bank»]: https://www.cibank.ru/en/
 [ZAO «City Invest Bank»]: https://www.cibank.ru/en/
-[IT Academy Russia]: http://www.academy.it.ru/
-[Academy of Information Systems]: http://infosystems.ru/
-[SPbGUAP]: http://guap.ru/
+[IT Academy Russia]: https://www.academy.it.ru/
+[Academy of Information Systems]: https://infosystems.ru/
+[SPbGUAP]: https://guap.ru/
 [St.Petersburg State University of Aerospace Instrumentation]: http://suai.ru/
 
 [GitHub]: https://github.com/diev

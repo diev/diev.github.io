@@ -14,7 +14,6 @@ Personal Website
 | [GitHub]      | [Гитхаб]   | My opensource projects and releases |
 |               |            |   |
 |               | [Facebook] | My life posts |
-|               | [Вырезки]  | Clippings from old newspapers and magazines | 
 
 
 [Ru]: / "Russian language (по-русски)"
@@ -30,4 +29,3 @@ Personal Website
 [Гитхаб]: /github "Открытые исходники проектов ПО и релизы"
 
 [Facebook]: https://www.facebook.com/dmitrii.evdokimov "Основная соцсеть (mostly in Russian)"
-[Вырезки]: /papers "Вырезки из старых газет и журналов (mostly in Russian)"
