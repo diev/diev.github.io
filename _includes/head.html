@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 {% assign languages = "ru en" | split: ' ' %}{% assign lang = languages | first %}
 {% capture pagelang %}{{ page.url | remove_first: '/' | split: '/' | first | default: lang }}{% endcapture %}
 {% if languages contains pagelang %}{% assign lang = pagelang %}{% endif %}

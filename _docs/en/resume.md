@@ -50,7 +50,7 @@ Development of software for internal use.
 
  - A full cycle of works with cryptographic protection and maintenance 
 of key infrastructure: 
-Verba-OW, Signatura, Validata, CryptoPRO, PKI, GPG, PGP, SSH, eToken, ruToken.
+[Verba-OW], Signatura, Validata, CryptoPRO, PKI, GPG, PGP, SSH, eToken, ruToken.
 
  - Administration, access and security: 
 ARM CBR, PTK PSD, Microsoft AD, SQL, SharePoint, IIS, CentOS, KVM, Samba, 
@@ -216,6 +216,7 @@ July 1988 - September 1989 (1 year 2 months)
 
 [GitHub]: https://github.com/diev
 [Projects]: /en/projects "Software Projects done"
+[Verba-OW]: / Verba-OW-Automation
 [WhoCan]: /WhoCan
 [SVKTrans]: /SVK-Transport-hta
 [PTK PSD Browser]: /PTK-PSD-Browser-hta

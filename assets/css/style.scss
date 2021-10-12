@@ -12,5 +12,5 @@
   div.wrapper { max-width: unset; }
   h1, h2, h3, h4, h5, h6, p, a { color: #000; }
   ul { list-style-image: none; }
-  div#print-qr { right: 0; }
+  div#print-qr { float: right; position: absolute; right: 0; top: 0; }
 }
