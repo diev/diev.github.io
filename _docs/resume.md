@@ -3,7 +3,7 @@
 Евдокимов Дмитрий Леонидович
 ============================
 
-12 апреля 1970 (51 год), женат.
+12 апреля 1970 (53 года), женат.
 
 **Начальник службы информационной безопасности** [АО «Сити Инвест Банк»]  
 Санкт-Петербург, Россия
@@ -15,10 +15,12 @@
 
 Сайт: [dievdo.ru](/)  
 ~~LinkedIn: [{{ site.data.contacts.LinkedIn.name }}]({{ site.data.contacts.LinkedIn.url }})~~ (закрыт в РФ)  
-Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})  
+~~Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})~~ (закрыт в РФ)  
+VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }})  
 GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
+GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }})  
 Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
-WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})  
+~~WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})~~  
 E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
 
 ## Общие сведения
@@ -52,19 +54,20 @@ FinCERT), ФСБ (получение лицензии по ПП РФ 313), ФС�
 
  - Полный цикл работ с СКЗИ и обслуживание ключевой инфраструктуры: 
 СКЗИ [Верба-OW], СКАД Сигнатура, Валидата, CryptoPRO CSP, PKI, GPG, 
-PGP, SSH, eToken, ruToken.
+PGP, SSH, TLS, eToken, ruToken.
 
  - Администрирование, обеспечение доступа и безопасности: 
 АРМ КБР, КБР-Н, ПТК ПСД, Microsoft AD, SQL, SharePoint, IIS, CentOS, KVM, 
 Samba, Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA/ESMC, 
-KAV, iRedAdmin, Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI.
+KAV, DrWeb, iRedAdmin, Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI.
 
  - Разработка программных средств для решения повседневных задач типа
 просмотра прав ACL [WhoCan] или интеллектуальная обработка полученного
 из СВК Банка России, разбор XML УФЕБС из АРМ КБР (КБР-Н) и
 перераспределение по заданным спискам платежей (например, обслуживание
 по разным тарифам, клиентские и банковские), рассылка оповещений через
-SMTP по заданным адресам и критериям (см. [Проекты]): 
+SMTP по заданным адресам и критериям, конверторы между СМЭВ, СПФС и
+SWIFT, обмен с API ЦБ и НБКИ (см. [Проекты]): 
 C#, WPF, console, Python, CMD.*
 
  - Соавтор популярных в банковской среде программ 
@@ -91,10 +94,11 @@ Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
 C#, PowerShell, [Excel VBA], 
 CMD, Delphi, C++, YAML, JSON, XML, XSLT, DBF, 
 Python, Bash скрипты и т.п. - 
-сейчас в основном в Visual Studio 2019, VS Code, PowerShell ISE, FAR.
+сейчас в основном в Visual Studio 2022, VS Code, PowerShell ISE, FAR,
+PostgreSQL.
 
  - DevOps операции по CI и системы контроля версий: 
-Git, Mercurial, [GitHub], Bitbucket, AppVeyor.
+Git, Mercurial, [GitHub], [GitFlic], Bitbucket, AppVeyor.
 
 ### Начальник управления автоматизации, [ЗАО «Сити Инвест Банк»]
 
@@ -229,8 +233,9 @@ Visual Basic, Clipper, DBF.
 [Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения]: https://guap.ru/
 
 [GitHub]: https://github.com/diev
+[GitFlic]: https://gitflic.ru/user/diev
 [Проекты]: /projects "Выполненные проекты ПО"
-[Верба-OW]: / Verba-OW-Automation
+[Верба-OW]: /Verba-OW-Automation
 [WhoCan]: /WhoCan
 [SVKTrans]: /SVK-Transport-hta
 [PTK PSD Browser]: /PTK-PSD-Browser-hta

@@ -12,8 +12,12 @@ Personal Website
 | [Resume (CV)] | [Резюме]   | My resume (CV) for a job offer |
 | [Projects]    | [Проекты]  | Descriptions of some software projects and the time of their service |
 | [GitHub]      | [Гитхаб]   | My opensource projects and releases |
+| [GitFlic]     | [Гитфлик]  | My opensource projects and releases (mirror) |
 |               |            |   |
-|               | [Facebook] | My life posts |
+|               | [Facebook] | My previous life posts (closed in Russia) |
+|               | [VK]       | My current life posts |
+
+Contact: [Telegram]
 
 
 [Ru]: / "Russian language (по-русски)"
@@ -22,10 +26,14 @@ Personal Website
 [Projects]: /en/projects "Descriptions of some software projects and the time of their service"
 [Resume (CV)]: /en/resume "My resume (CV) for a job offer"
 [GitHub]: /en/github "My opensource projects and releases"
+[GitFlic]: https://gitflic.ru/user/diev "My opensource projects and releases (mirror)"
 
 [О сайте]: /about "Об этом сайте"
 [Резюме]: /resume "Моё резюме для рассмотрения"
 [Проекты]: /projects "Описания некоторых моих проектов ПО и время их использования"
 [Гитхаб]: /github "Открытые исходники проектов ПО и релизы"
+[Гитфлик]: https://gitflic.ru/user/diev "Открытые исходники проектов ПО и релизы (зеркало)"
 
-[Facebook]: https://www.facebook.com/dmitrii.evdokimov "Основная соцсеть (mostly in Russian)"
+[Facebook]: https://www.facebook.com/dmitrii.evdokimov "Прежняя основная соцсеть (закрыта в РФ)"
+[VK]: https://vk.com/dievdo "Основная соцсеть"
+[Telegram]: https://t.me/dievdo "Telegram"

@@ -3,7 +3,7 @@
 Dmitrii Evdokimov
 =================
 
-12 April 1970 (51 years old), married.
+12 April 1970 (53 years old), married.
 
 **CISO - Chief Information Security Officer** at [AO «City Invest Bank»]  
 St.Petersburg, Russia
@@ -14,11 +14,13 @@ High Education:
  - [SPbGUAP] (LIAP), 2001
 
 Site: [dievdo.ru/en/](/en/)  
-LinkedIn: [{{ site.data.contacts.LinkedIn.name }}]({{ site.data.contacts.LinkedIn.url }})  
-Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})  
+~~LinkedIn: [{{ site.data.contacts.LinkedIn.name }}]({{ site.data.contacts.LinkedIn.url }})~~ (closed in Russia)  
+~~Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})~~ (closed in Russia)  
+VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }}) (in Russian)  
 GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
+GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }})  
 Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
-WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})  
+~~WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})~~  
 E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
 
 ## Summary
@@ -50,16 +52,18 @@ Development of software for internal use.
 
  - A full cycle of works with cryptographic protection and maintenance 
 of key infrastructure: 
-[Verba-OW], Signatura, Validata, CryptoPRO, PKI, GPG, PGP, SSH, eToken, ruToken.
+[Verba-OW], Signatura, Validata, CryptoPRO, PKI, GPG, PGP, SSH, TLS, eToken,
+ruToken.
 
  - Administration, access and security: 
 ARM CBR, PTK PSD, Microsoft AD, SQL, SharePoint, IIS, CentOS, KVM, Samba, 
-Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA/ESMC, KAV, iRedAdmin, 
-Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI, FineReaderBANK.
+Kerio Control, ZyWALL, VPN, RDP, VNC, IPTables, ESET ERA/ESMC, KAV, DrWeb,
+iRedAdmin, Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI, FineReaderBANK.
 
  - Development of tools for current needs like an ACL explorer [WhoCan] or
 a parser of XML data files of the Cental Bank of Russia to recomposite them
-according to a set of rules (see [Projects]):
+according to a set of rules, SMEV/SPFS/SWIFT convertors, works with API of
+CBR.ru and NBKI.ru (see [Projects]):
 C#, WPF, console, Python, CMD.
 
  - So-development of a set of lightweight HTA utilities to browse data with the 
@@ -75,11 +79,11 @@ Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
 
  - Development of various software modules to automate bank data flows: 
 C#, PowerShell, Excel VBA, JS HTA, CMD, Delphi, C++, YAML, JSON, XML, XSLT, 
-DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2019, 
-VS Code, PowerShell ISE, FAR.
+DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2022, 
+VS Code, PowerShell ISE, FAR, PostgreSQL.
 
  - DevOps on CI and version control systems: 
-Git, Mercurial, [GitHub], Bitbucket, AppVeyor.
+Git, Mercurial, [GitHub], [GitFlic], Bitbucket, AppVeyor.
 
 ### Chief Information Officer (CIO) at [ZAO «City Invest Bank»]
 
@@ -165,8 +169,8 @@ January 1992 - November 1992 (6 months)
 
 Application development for PC and mainframes.
 
- - Development of a PC software application to quickly enter the big data arrays 
-into mainframes: C, Fortran, FoxPro.
+ - Development of a PC software application to quickly enter the big data
+arrays into mainframes: C, Fortran, FoxPro.
 
 ---
 
@@ -215,8 +219,9 @@ July 1988 - September 1989 (1 year 2 months)
 [St.Petersburg State University of Aerospace Instrumentation]: http://suai.ru/
 
 [GitHub]: https://github.com/diev
+[GitFlic]: https://gitflic.ru/user/diev
 [Projects]: /en/projects "Software Projects done"
-[Verba-OW]: / Verba-OW-Automation
+[Verba-OW]: /Verba-OW-Automation
 [WhoCan]: /WhoCan
 [SVKTrans]: /SVK-Transport-hta
 [PTK PSD Browser]: /PTK-PSD-Browser-hta
