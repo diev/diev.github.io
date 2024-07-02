@@ -12,7 +12,8 @@ Personal Website
 | [Resume (CV)] | [Резюме]   | My resume (CV) for a job offer |
 | [Projects]    | [Проекты]  | Descriptions of some software projects and the time of their service |
 | [GitHub]      | [Гитхаб]   | My opensource projects and releases |
-| [GitFlic]     | [Гитфлик]  | My opensource projects and releases (mirror) |
+|               | [GitFlic]  | My opensource projects and releases (mirror) |
+|               | [GitVerse] | My opensource projects and releases (mirror) |
 |               |            |   |
 |               | [Facebook] | My previous life posts (closed in Russia) |
 |               | [VK]       | My current life posts |
@@ -32,7 +33,8 @@ Contact: [Telegram]
 [Резюме]: /resume "Моё резюме для рассмотрения"
 [Проекты]: /projects "Описания некоторых моих проектов ПО и время их использования"
 [Гитхаб]: /github "Открытые исходники проектов ПО и релизы"
-[Гитфлик]: https://gitflic.ru/user/diev "Открытые исходники проектов ПО и релизы (зеркало)"
+[GitFlic]: https://gitflic.ru/user/diev "Открытые исходники проектов ПО и релизы (импортозамещение)"
+[GitVerse]: https://gitverse.ru/diev "Открытые исходники проектов ПО и релизы (импортозамещение)"
 
 [Facebook]: https://www.facebook.com/dmitrii.evdokimov "Прежняя основная соцсеть (закрыта в РФ)"
 [VK]: https://vk.com/dievdo "Основная соцсеть"

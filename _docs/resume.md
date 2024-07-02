@@ -3,7 +3,7 @@
 Евдокимов Дмитрий Леонидович
 ============================
 
-12 апреля 1970 (53 года), женат.
+12 апреля 1970 (54 года), женат.
 
 **Начальник службы информационной безопасности** [АО «Сити Инвест Банк»]  
 Санкт-Петербург, Россия
@@ -19,6 +19,7 @@
 VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }})  
 GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
 GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }})  
+GitVerse: [{{ site.data.contacts.GitVerse.name }}]({{ site.data.contacts.GitVerse.url }})  
 Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
 ~~WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})~~  
 E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
@@ -37,7 +38,7 @@ E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }}
 
 ### Начальник службы информационной безопасности, [АО «Сити Инвест Банк»]
 
-Июнь 2008 - по настоящее время (более 10 лет)
+Июнь 2008 - по настоящее время (более 16 лет)
 
 Обеспечение информационной безопасности (ИБ) банка в соответствии 
 с требованиями регуляторов и контрагентов: ЦБ (СТО БР, 382-П, 683-П, ГОСТ,
@@ -90,7 +91,8 @@ Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
 
  - Разработка модулей для автоматизации банковских технологических процессов, 
 стыковки различных информационных систем, трансформация данных (как, 
-например, загрузка в АБС из [FineReaderBANK]): 
+например, загрузка в АБС из [FineReaderBANK], REST API FinCERT, Portal5 ЦБ,
+НБКИ): 
 C#, PowerShell, [Excel VBA], 
 CMD, Delphi, C++, YAML, JSON, XML, XSLT, DBF, 
 Python, Bash скрипты и т.п. - 
@@ -98,7 +100,7 @@ Python, Bash скрипты и т.п. -
 PostgreSQL.
 
  - DevOps операции по CI и системы контроля версий: 
-Git, Mercurial, [GitHub], [GitFlic], Bitbucket, AppVeyor.
+Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
 
 ### Начальник управления автоматизации, [ЗАО «Сити Инвест Банк»]
 
@@ -234,6 +236,7 @@ Visual Basic, Clipper, DBF.
 
 [GitHub]: https://github.com/diev
 [GitFlic]: https://gitflic.ru/user/diev
+[GitVerse]: https://gitverse.ru/diev
 [Проекты]: /projects "Выполненные проекты ПО"
 [Верба-OW]: /Verba-OW-Automation
 [WhoCan]: /WhoCan

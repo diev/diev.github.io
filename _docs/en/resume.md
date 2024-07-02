@@ -3,7 +3,7 @@
 Dmitrii Evdokimov
 =================
 
-12 April 1970 (53 years old), married.
+12 April 1970 (54 years old), married.
 
 **CISO - Chief Information Security Officer** at [AO «City Invest Bank»]  
 St.Petersburg, Russia
@@ -19,6 +19,7 @@ Site: [dievdo.ru/en/](/en/)
 VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }}) (in Russian)  
 GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
 GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }})  
+GitVerse: [{{ site.data.contacts.GitVerse.name }}]({{ site.data.contacts.GitVerse.url }})  
 Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
 ~~WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})~~  
 E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
@@ -37,7 +38,7 @@ of data flow procedures and transformations.
 
 ### Chief Information Security Officer (CISO) at [AO «City Invest Bank»]
 
-June 2008 - Present (more 10 years)
+June 2008 - Present (more 16 years)
 
 Provision of information security (IB) of the bank in accordance with 
 the requirements of regulators and counterparties: Bank of Russia 
@@ -62,8 +63,8 @@ iRedAdmin, Zabbix, Asterisk (VoIP), OpenFire (Spark), FIMI, FineReaderBANK.
 
  - Development of tools for current needs like an ACL explorer [WhoCan] or
 a parser of XML data files of the Cental Bank of Russia to recomposite them
-according to a set of rules, SMEV/SPFS/SWIFT convertors, works with API of
-CBR.ru and NBKI.ru (see [Projects]):
+according to a set of rules, SMEV/SPFS/SWIFT convertors, works with REST API
+of CBR.ru and NBKI.ru (see [Projects]):
 C#, WPF, console, Python, CMD.
 
  - So-development of a set of lightweight HTA utilities to browse data with the 
@@ -77,13 +78,14 @@ on banking cards: ASP.NET MVC, C#, MS SQL.
  - Design, maintenance and renovation of corporate websites: 
 Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
 
- - Development of various software modules to automate bank data flows: 
+ - Development of various software modules to automate bank data flows
+and performing REST API calls through TLS connections: 
 C#, PowerShell, Excel VBA, JS HTA, CMD, Delphi, C++, YAML, JSON, XML, XSLT, 
 DBF, CSV, Python, Bash scripting, etc. - now mostly Visual Studio 2022, 
 VS Code, PowerShell ISE, FAR, PostgreSQL.
 
  - DevOps on CI and version control systems: 
-Git, Mercurial, [GitHub], [GitFlic], Bitbucket, AppVeyor.
+Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
 
 ### Chief Information Officer (CIO) at [ZAO «City Invest Bank»]
 
@@ -220,6 +222,7 @@ July 1988 - September 1989 (1 year 2 months)
 
 [GitHub]: https://github.com/diev
 [GitFlic]: https://gitflic.ru/user/diev
+[GitVerse]: https://gitverse.ru/diev
 [Projects]: /en/projects "Software Projects done"
 [Verba-OW]: /Verba-OW-Automation
 [WhoCan]: /WhoCan

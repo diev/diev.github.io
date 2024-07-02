@@ -4,7 +4,9 @@ Software Projects done
 ======================
 
 Descriptions of some projects (mentioned in [resume]) done by me
-and the time of their development/service:
+and the time of their development/service.
+
+A more full list of projects collected automatically is on [github].
 
 ---
 
@@ -124,6 +126,7 @@ into mainframes: C, Fortran.
 
 
 [resume]: /en/resume
+[github]: /en/github
 [Pop3cli]: /Pop3cli
 [WebFileMirror]: /WebFileMirror
 [ICRS-NBKI-Request]: /ICRS-NBKI-Request
