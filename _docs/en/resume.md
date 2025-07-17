@@ -3,7 +3,7 @@
 Dmitrii Evdokimov
 =================
 
-12 April 1970 (54 years old), married.
+12 April 1970 (55 years old), married.
 
 **CISO - Chief Information Security Officer** at [AO «City Invest Bank»]  
 St.Petersburg, Russia
@@ -38,7 +38,7 @@ of data flow procedures and transformations.
 
 ### Chief Information Security Officer (CISO) at [AO «City Invest Bank»]
 
-June 2008 - Present (more 16 years)
+June 2008 - Present (more 17 years)
 
 Provision of information security (IB) of the bank in accordance with 
 the requirements of regulators and counterparties: Bank of Russia 
