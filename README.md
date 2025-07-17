@@ -27,6 +27,7 @@ Licensed under the [Apache License, Version 2.0].
 Content licensed under the [Creative Commons Attribution 4.0 International 
 License] (CC BY 4.0).
 
+[![Telegram](https://img.shields.io/badge/t.me-dievdo-blue?logo=telegram)](https://t.me/dievdo)
 
 [diev.github.io]: http://diev.github.io/
 [Build Status]: https://travis-ci.org/diev/diev.github.io.svg?branch=master

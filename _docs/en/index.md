@@ -18,8 +18,6 @@ Personal Website
 |               | [Facebook] | My previous life posts (closed in Russia) |
 |               | [VK]       | My current life posts |
 
-Contact: [Telegram]
-
 
 [Ru]: / "Russian language (по-русски)"
 
