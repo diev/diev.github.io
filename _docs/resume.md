@@ -227,8 +227,8 @@ Visual Basic, Clipper, DBF.
 Июль 1988 - Сентябрь 1989 (1 год 2 месяца)
 
 
-[АО «Сити Инвест Банк»]: https://www.cibank.ru/
-[ЗАО «Сити Инвест Банк»]: https://www.cibank.ru/
+[АО «Сити Инвест Банк»]: https://cibank.ru/
+[ЗАО «Сити Инвест Банк»]: https://cibank.ru/
 [Академия АйТи]: https://www.academy.it.ru/
 [Академия информационых систем]: https://infosystems.ru/
 [СПбГУАП]: https://guap.ru/

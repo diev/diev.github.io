@@ -213,8 +213,8 @@ at [St.Petersburg State University of Aerospace Instrumentation].
 July 1988 - September 1989 (1 year 2 months)
 
 
-[AO «City Invest Bank»]: https://www.cibank.ru/en/
-[ZAO «City Invest Bank»]: https://www.cibank.ru/en/
+[AO «City Invest Bank»]: https://cibank.ru/en/
+[ZAO «City Invest Bank»]: https://cibank.ru/en/
 [IT Academy Russia]: https://www.academy.it.ru/
 [Academy of Information Systems]: https://infosystems.ru/
 [SPbGUAP]: https://guap.ru/
