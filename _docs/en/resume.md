@@ -62,9 +62,9 @@ ESET ERA/ESMC, Kaspersky, DrWeb, Zabbix, [FineReaderBANK].
  - Development of tools for current needs like an ACL explorer [WhoCan] or
 a parser of various [XML] data files, [UFEBS] of the Cental Bank of Russia to
 recomposite them according to a set of rules, [SMEV]/SPFS/[SWIFT] convertors,
-works with REST API of CBR.ru ([Portal5] and [FinCERT]), [NBKI].ru, etc.
-(see [Projects]):
-C#, WinForms, WPF, Razor, console.
+works with REST API of CBR.ru ([Portal5] and [FinCERT]), [NBKI].ru,
+etc. [Projects]:
+C#, NET, Net Framework, WinForms, WPF, Razor, PowerShell, console.
 
  - So-development of a set of lightweight HTA utilities to browse data with
 the [PTK PSD Browser] and to exchange data with the [SVKTrans] to the Cental
@@ -72,10 +72,10 @@ Bank of Russia, etc.:
 JS HTA.
 
  - Development of the GUI frontend for Internet/Intranet Information System 
-on banking cards: ASP.NET MVC, C#, MS SQL.
+on banking cards: ASP.NET MVC, C#, MS SQL, Excel.
 
  - Design, maintenance and renovation of corporate websites: 
-Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
+Amiro.CMS, Apache, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
 
  - DevOps on CI/CD and version control systems: 
 Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.

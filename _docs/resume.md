@@ -14,23 +14,20 @@
  - [СПбГУАП] (ЛИАП), 2001
 
 Сайт: [dievdo.ru](/)  
-~~LinkedIn: [{{ site.data.contacts.LinkedIn.name }}]({{ site.data.contacts.LinkedIn.url }})~~ (закрыт в РФ)  
-~~Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})~~ (закрыт в РФ)  
 VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }})  
 GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
 GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }})  
 GitVerse: [{{ site.data.contacts.GitVerse.name }}]({{ site.data.contacts.GitVerse.url }})  
 Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
-~~WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})~~  
 E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
 
 ## Общие сведения
 
- - 20+ лет в администрировании IT, программировании и информационной 
-безопасности.
- - Опыт в разработке, автоматизации и интеграции банковских процессов,
-потоков данных и их трансформации.
- - В арсенале набор языков и сред программирования.
+ - 20+ лет в администрировании ИТ, программировании и информационной 
+безопасности (ИБ).
+ - Опыт автоматизации и интеграции банковских процессов, потоков данных
+и их трансформации.
+ - Применение языков программирования.
 
 ---
 
@@ -40,43 +37,41 @@ E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }}
 
 Июнь 2008 - по настоящее время (более 17 лет)
 
-Обеспечение информационной безопасности (ИБ) банка в соответствии 
-с требованиями регуляторов и контрагентов: ЦБ (ГОСТ, Положения,
-FinCERT), ФСБ (получение лицензии по ПП РФ 313), ФСТЭК (защита ПДн), 
-СМЭВ (ГИС), Казначейство (банковские гарантии), Московская Биржа, 
-НБКИ, VISA (PCI DSS), SWIFT, FATCA IDES. 
+Обеспечение ИБ банка в соответствии с требованиями регуляторов:
+ЦБ (ГОСТ, Положения, FinCERT), ФСБ (получение лицензии по ПП РФ 313),
+ФСТЭК и РКН (защита ПДн), формуляры СЗИ.
+Взаимодействие со СМЭВ (ГИС), Казначейством (банковские гарантии),
+Московской Биржей, НБКИ, VISA (PCI DSS), SWIFT, FATCA IDES. 
 Анализ процессов и инфраструктуры банка с целью защиты от угроз
-безопасности, организация информационных ресурсов. 
-Внедрение систем учета и фильтрации сетевого трафика МЭ. 
-Разработка рекомендаций для персонала и обучение. 
-Разработка программного обеспечения для внутреннего использования.
+безопасности, организация информационных ресурсов, обучение, аудит. 
+Системы фильтрации и учета сетевого трафика МСЭ. 
 Обработка данных систем контроля и учета доступа (СКУД).
 
  - Полный цикл работ с СКЗИ и обслуживание ключевой инфраструктуры: 
-Сигнатура, Валидата, CryptoPro CSP, PKI, GPG/PGP, TLS, eToken, ruToken.
+Сигнатура, Валидата, КриптоПро CSP, PKI, GPG/PGP, TLS, eToken, ruToken,
+АУЦ Банка России, коммерческие УЦ и МЧД, Реестр ФНС, ЭДО, ФОИВ.
 
  - Администрирование, обеспечение доступа и безопасности: 
-АРМ КБР-Н, КБР СПФС, ПП Дельта, ПТК ПСД, Microsoft ActiveDirectory,
-GFI Kerio Control, VPN, RDP, Stunnel, ESET ERA/ESMC, Kaspersky, DrWeb,
-Zabbix, [FineReaderBANK].
+АРМ КБР-Н, АРМ КБР СПФС, ПП Дельта, ПТК ПСД, Комита, [FineReaderBANK],
+Microsoft Active Directory, GFI Kerio Control, VPN, RDP, Stunnel,
+ESET ERA/ESMC, Kaspersky, DrWeb, Zabbix, ЕБС.
 
- - Разработка программных средств для решения повседневных задач типа
-просмотра прав ACL [WhoCan], обработки сообщений для/из ЛК Банка России,
-разбор разных [XML], [УФЭБС], рассылка оповещений через SMTP, конверторы
-между [СМЭВ], [SWIFT], СПФС, обмен по REST API [Portal5] и [FinCERT]
-с ЦБ и [НБКИ], др.
-(см. [Проекты]): 
-C#, WinForms, WPF, Razor, console.
+ - Разработка собственных программных средств автоматизации для решения
+задач типа просмотра прав ACL [WhoCan], обработки сообщений ЛК УИО Банка
+России, разбор и составление разных [XML] по шаблонам, работа с [УФЭБС],
+рассылка оповещений через SMTP, конверторы между [СМЭВ], [SWIFT], СПФС,
+обмен по REST API [Portal5] и [FinCERT] с ЦБ и [НБКИ], др. [Проекты]: 
+C#, NET, Net Framework, WinForms, WPF, Razor, PowerShell, console.
 
- - Соавтор популярных программ [SVKTrans] и [PTK PSD Browser] - обмен по
-HTTP в СВК Банка России (собственный аналог УТА) и более наглядная работа
-с архивом посылок ПТК ПСД на JS HTA.
+ - Соавтор популярных программ: [SVKTrans] - обмен по HTTP с СВК Банка
+России (собственный аналог УТА) и [PTK PSD Browser] - наглядная работа
+с архивом посылок ПТК ПСД и мониторинг обмена на JS HTA.
 
  - Информационная система банковских карт и счетов через Интернет: 
-ASP.NET MVC, C#, MS SQL.
+ASP.NET MVC, C#, MS SQL, Excel.
 
  - Сопровождение корпоративных сайтов, доработка модулей: 
-Amiro.CMS, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
+Amiro.CMS, Apache, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
 
  - DevOps операции по CI/CD и системы контроля версий: 
 Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
@@ -100,7 +95,7 @@ Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
 
 Ноябрь 1997 - Ноябрь 1998 (1 год 1 месяц)
 
- - Командная разработка ПО на Delphi, обеспечение работы агентства.
+ - Командная удаленная разработка графического ПО на Delphi.
 
 ### Программист, ООО «Фруктовая компания «Пальма»
 
