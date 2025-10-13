@@ -10,9 +10,65 @@ A more full list of projects collected automatically is on [github].
 
 ---
 
+## [WhoCan]
+
+Display ACL rights and export lists to Excel: C#.
+
+2020 - Present
+
+## [XML]
+
+Replaces every `key[;value;remark;regexp]` in a template XML file with
+DataGridView inserted and validated values: C#.
+
+2024 - Present
+
+## [UFEBS]
+
+Normalize XML and set ZK/KA codes to UFEBS documents before sending to
+KBR-N: C#.
+
+2022 - Present
+
+## [SMEV]
+
+XSL Transformation of an incoming Request.xml into its response XML +
+printable HTML/TEXT files: C#.
+
+2023 - Present
+
+## [SWIFT]
+
+Processing of correspondent accounts of various banks in UFEBS and SWIFT-RUR
+formats: C#.
+
+2022 - Present
+
+## [Portal5]
+
+Works with API of Portal5: C#.
+
+2022 - Present
+
+## [FinCERT]
+
+Receiving of FEEDS and bulletins by API from FinCERT of Bank of Russia: C#.
+
+2022 - Present
+
+## [NBKI]
+
+Receiving of data by API of BKI due to directives of Bank of Russia N 6775-U,
+and before 5704-U: C#.
+                                        
+2022 - Present
+
 ## [Pop3cli]
 
 Console POP3 client to get all attachments: C#.
+
+Now replaced by [FTPSReportsDownloader] to download all files from a remote
+FTPS server to a local path: C#.
 
 2021 - Present
 
@@ -127,7 +183,16 @@ into mainframes: C, Fortran.
 
 [resume]: /en/resume
 [github]: /en/github
+[WhoCan]: /WhoCan
+[XML]: /ReplForms
+[UFEBS]: /Ufebs-N
+[SMEV]: /SMEV-Works
+[SWIFT]: /Ufebs-Works
+[Portal5]: /Portal5-Works
+[FinCERT]: /FinCERT-Client
+[NBKI]: /Api5704
 [Pop3cli]: /Pop3cli
+[FTPSReportsDownloader]: /[FTPSReportsDownloader]
 [WebFileMirror]: /WebFileMirror
 [ICRS-NBKI-Request]: /ICRS-NBKI-Request
 [WhoCan]: /WhoCan
