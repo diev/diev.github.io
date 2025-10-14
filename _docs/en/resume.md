@@ -17,8 +17,8 @@ Site: [dievdo.ru/en/](/en/)
 ~~LinkedIn: [{{ site.data.contacts.LinkedIn.name }}]({{ site.data.contacts.LinkedIn.url }})~~ (closed in Russia)  
 ~~Facebook: [{{ site.data.contacts.Facebook.name }}]({{ site.data.contacts.Facebook.url }})~~ (closed in Russia)  
 VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }}) (in Russian)  
-GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
-GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }})  
+GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }}),
+GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }}),
 GitVerse: [{{ site.data.contacts.GitVerse.name }}]({{ site.data.contacts.GitVerse.url }})  
 Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
 ~~WhatsApp: [{{ site.data.contacts.WhatsApp.name }}]({{ site.data.contacts.WhatsApp.url }})~~  

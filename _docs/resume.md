@@ -13,10 +13,10 @@
  - [Академия АйТи], 2015
  - [СПбГУАП] (ЛИАП), 2001
 
-Сайт: [dievdo.ru](/)  
-VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }})  
-GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }})  
-GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }})  
+Сайт: [dievdo.ru](/),
+VK: [{{ site.data.contacts.VK.name }}]({{ site.data.contacts.VK.url }}),
+GitHub: [{{ site.data.contacts.GitHub.name }}]({{ site.data.contacts.GitHub.url }}),
+GitFlic: [{{ site.data.contacts.GitFlic.name }}]({{ site.data.contacts.GitFlic.url }}),
 GitVerse: [{{ site.data.contacts.GitVerse.name }}]({{ site.data.contacts.GitVerse.url }})  
 Telegram: [{{ site.data.contacts.Telegram.name }}]({{ site.data.contacts.Telegram.url }})  
 E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
