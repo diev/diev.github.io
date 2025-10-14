@@ -14,11 +14,11 @@ Theme based on [Midnight] originally by [mattgraham].
 
 It is a test lab for GitHub Pages. A work in progress.
 
-[avatar]: https://avatars3.githubusercontent.com/u/2707312?v=3&s=460
+[avatar]: //avatars3.githubusercontent.com/u/2707312?v=3&s=460
 
-[Creative Commons Attribution 4.0 International License]: http://creativecommons.org/licenses/by/4.0/deed.ru
-[Jekyll]: http://jekyllrb.com/
-[GitHub]: http://github.com/diev/diev.github.io
-[GitHub Pages]: http://pages.github.com/
-[Midnight]: https://pages-themes.github.io/midnight/
-[mattgraham]: https://twitter.com/michigangraham "Twitter"
+[Creative Commons Attribution 4.0 International License]: //creativecommons.org/licenses/by/4.0/deed.ru
+[Jekyll]: //jekyllrb.com/
+[GitHub]: //github.com/diev/diev.github.io
+[GitHub Pages]: //pages.github.com/
+[Midnight]: //pages-themes.github.io/midnight/
+[mattgraham]: //twitter.com/michigangraham "Twitter"

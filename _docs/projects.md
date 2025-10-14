@@ -25,14 +25,14 @@
 
 2024 - по настоящее время
 
-## [UFEBS]
+## [УФЭБС]
 
 Нормализация XML и установка ЗК/КА в документы УФЭБС перед передачей
 КБР-Н: C#.
 
 2022 - по настоящее время
 
-## [SMEV]
+## [СМЭВ]
 
 Формирование с помощью XSLT подтверждения на получение файла XML из
 Адаптера СМЭВ для отправки ответного XML обратно + формирование печатного
@@ -58,7 +58,7 @@
 
 2022 - по настоящее время
 
-## [NBKI]
+## [НБКИ]
 
 Получение сведений о ССП и СЗ при обращении банка к API КБКИ по Указанию
 Банка России N 6775-У, ранее 5704-У: C#.
@@ -185,7 +185,7 @@ Visual Basic, Clipper.
 
 [резюме]: /resume
 [github]: /github
-[WhoCan]: //github.com/diev/WhoCan
+[WhoCan]: /WhoCan
 [XML]: //github.com/diev/ReplForms
 [УФЭБС]: //github.com/diev/Ufebs-N
 [СМЭВ]: //github.com/diev/SMEV-Works
@@ -193,11 +193,11 @@ Visual Basic, Clipper.
 [Portal5]: //github.com/diev/Portal5-Works
 [FinCERT]: //github.com/diev/FinCERT-Client
 [НБКИ]: //github.com/diev/Api5704
-[Pop3cli]: //github.com/diev/Pop3cli
+[Pop3cli]: /Pop3cli
 [FTPSReportsDownloader]: //github.com/diev/FTPSReportsDownloader
-[WebFileMirror]: //github.com/diev/WebFileMirror
-[ICRS-NBKI-Request]: //github.com/diev/ICRS-NBKI-Request
-[PTK-PSD Browser]: //github.com/diev/PTK-PSD-Browser-hta
-[SVK Transport]: //github.com/diev/SVK-Transport-hta
+[WebFileMirror]: /WebFileMirror
+[ICRS-NBKI-Request]: /ICRS-NBKI-Request
+[PTK-PSD Browser]: /PTK-PSD-Browser-hta
+[SVK Transport]: /SVK-Transport-hta
 [cibank.ru]: //cibank.ru/ "АО «Сити Инвест Банк»"
 [этот]: /

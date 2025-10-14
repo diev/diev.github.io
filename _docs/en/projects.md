@@ -177,7 +177,7 @@ into mainframes: C, Fortran.
 
 [resume]: /en/resume
 [github]: /en/github
-[WhoCan]: //github.com/diev/WhoCan
+[WhoCan]: /WhoCan
 [XML]: //github.com/diev/ReplForms
 [UFEBS]: //github.com/diev/Ufebs-N
 [SMEV]: //github.com/diev/SMEV-Works
@@ -185,11 +185,11 @@ into mainframes: C, Fortran.
 [Portal5]: //github.com/diev/Portal5-Works
 [FinCERT]: //github.com/diev/FinCERT-Client
 [NBKI]: //github.com/diev/Api5704
-[Pop3cli]: //github.com/diev/Pop3cli
+[Pop3cli]: /Pop3cli
 [FTPSReportsDownloader]: //github.com/diev/FTPSReportsDownloader
-[WebFileMirror]: //github.com/diev/WebFileMirror
-[ICRS-NBKI-Request]: //github.com/diev/ICRS-NBKI-Request
-[PTK-PSD Browser]: //github.com/diev/PTK-PSD-Browser-hta
-[SVK Transport]: //github.com/diev/SVK-Transport-hta
+[WebFileMirror]: /WebFileMirror
+[ICRS-NBKI-Request]: /ICRS-NBKI-Request
+[PTK-PSD Browser]: /PTK-PSD-Browser-hta
+[SVK Transport]: /SVK-Transport-hta
 [cibank.ru]: //cibank.ru/ "City Invest Bank"
 [this]: /

@@ -25,14 +25,14 @@ permalink: /
 [Resume (CV)]: /en/resume "My resume (CV) for a job offer"
 [Projects]: /en/projects "Descriptions of some software projects and the time of their service"
 [GitHub]: /en/github "My opensource projects and releases"
-[GitFlic]: https://gitflic.ru/user/diev
+[GitFlic]: //gitflic.ru/user/diev
 
 [О сайте]: /about "Об этом сайте"
 [Резюме]: /resume "Моё резюме для рассмотрения"
 [Проекты]: /projects "Описания некоторых моих проектов ПО и время их использования"
 [Гитхаб]: /github "Открытые исходники проектов ПО и релизы"
-[GitFlic]: https://gitflic.ru/user/diev "Открытые исходники проектов ПО и релизы (импортозамещение)"
-[GitVerse]: https://gitverse.ru/diev "Открытые исходники проектов ПО и релизы (импортозамещение)"
+[GitFlic]: //gitflic.ru/user/diev "Открытые исходники проектов ПО и релизы (импортозамещение)"
+[GitVerse]: //gitverse.ru/diev "Открытые исходники проектов ПО и релизы (импортозамещение)"
 
 [Facebook]: https://www.facebook.com/dmitrii.evdokimov "Прежняя основная соцсеть (закрыта в РФ)"
 [VK]: https://vk.com/dievdo "Основная соцсеть"

@@ -175,26 +175,26 @@ Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
 Июль 1988 - Сентябрь 1989 (1 год 2 месяца)
 
 
-[АО «Сити Инвест Банк»]: https://cibank.ru/
-[ЗАО «Сити Инвест Банк»]: https://cibank.ru/
-[Академия АйТи]: https://www.academy.it.ru/
-[Академия информационых систем]: https://infosystems.ru/
-[СПбГУАП]: https://guap.ru/
-[Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения]: https://guap.ru/
+[АО «Сити Инвест Банк»]: //cibank.ru/
+[ЗАО «Сити Инвест Банк»]: //cibank.ru/
+[Академия АйТи]: //www.academy.it.ru/
+[Академия информационых систем]: //infosystems.ru/
+[СПбГУАП]: //guap.ru/
+[Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения]: //guap.ru/
 
-[GitHub]: https://github.com/diev
-[GitFlic]: https://gitflic.ru/user/diev
-[GitVerse]: https://gitverse.ru/diev
+[GitHub]: //github.com/diev
+[GitFlic]: //gitflic.ru/user/diev
+[GitVerse]: //gitverse.ru/diev
 [Проекты]: /projects "Выполненные проекты ПО"
 [Верба-OW]: /Verba-OW-Automation
 [WhoCan]: /WhoCan
-[XML]: /ReplForms
-[УФЭБС]: /Ufebs-N
-[СМЭВ]: /SMEV-Works
-[SWIFT]: /Ufebs-Works
-[Portal5]: /Portal5-Works
-[FinCERT]: /FinCERT-Client
-[НБКИ]: /Api5704
+[XML]: //github.com/diev/ReplForms
+[УФЭБС]: //github.com/diev/Ufebs-N
+[СМЭВ]: //github.com/diev/SMEV-Works
+[SWIFT]: //github.com/diev/Ufebs-Works
+[Portal5]: //github.com/diev/Portal5-Works
+[FinCERT]: //github.com/diev/FinCERT-Client
+[НБКИ]: //github.com/diev/Api5704
 [SVKTrans]: /SVK-Transport-hta
 [PTK PSD Browser]: /PTK-PSD-Browser-hta
 [FineReaderBANK]: /ConvertFRBtoABS

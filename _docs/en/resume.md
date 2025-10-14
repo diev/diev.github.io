@@ -171,26 +171,26 @@ at [St.Petersburg State University of Aerospace Instrumentation].
 July 1988 - September 1989 (1 year 2 months)
 
 
-[AO «City Invest Bank»]: https://cibank.ru/en/
-[ZAO «City Invest Bank»]: https://cibank.ru/en/
-[IT Academy Russia]: https://www.academy.it.ru/
-[Academy of Information Systems]: https://infosystems.ru/
-[SPbGUAP]: https://guap.ru/
-[St.Petersburg State University of Aerospace Instrumentation]: http://suai.ru/
+[AO «City Invest Bank»]: //cibank.ru/en/
+[ZAO «City Invest Bank»]: //cibank.ru/en/
+[IT Academy Russia]: //www.academy.it.ru/
+[Academy of Information Systems]: //infosystems.ru/
+[SPbGUAP]: //guap.ru/
+[St.Petersburg State University of Aerospace Instrumentation]: //suai.ru/
 
-[GitHub]: https://github.com/diev
-[GitFlic]: https://gitflic.ru/user/diev
-[GitVerse]: https://gitverse.ru/diev
+[GitHub]: //github.com/diev
+[GitFlic]: //gitflic.ru/user/diev
+[GitVerse]: //gitverse.ru/diev
 [Projects]: /en/projects "Software Projects done"
 [Verba-OW]: /Verba-OW-Automation
 [WhoCan]: /WhoCan
-[XML]: /ReplForms
-[UFEBS]: /Ufebs-N
-[SMEV]: /SMEV-Works
-[SWIFT]: /Ufebs-Works
-[Portal5]: /Portal5-Works
-[FinCERT]: /FinCERT-Client
-[NBKI]: /Api5704
+[XML]: //github.com/diev/ReplForms
+[UFEBS]: //github.com/diev/Ufebs-N
+[SMEV]: //github.com/diev/SMEV-Works
+[SWIFT]: //github.com/diev/Ufebs-Works
+[Portal5]: //github.com/diev/Portal5-Works
+[FinCERT]: //github.com/diev/FinCERT-Client
+[NBKI]: //github.com/diev/Api5704
 [SVKTrans]: /SVK-Transport-hta
 [PTK PSD Browser]: /PTK-PSD-Browser-hta
 [FineReaderBANK]: /ConvertFRBtoABS
