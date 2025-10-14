@@ -56,8 +56,8 @@ of key infrastructure:
 Signatura, Validata, CryptoPro CSP, PKI, GPG/PGP, TLS, eToken, ruToken.
 
  - Administration, access and security: 
-ARM CBR, Delta, PTK PSD, Microsoft AD, GFI Kerio Control, VPN, RDP, Stunnel,
-ESET ERA/ESMC, Kaspersky, DrWeb, Zabbix, [FineReaderBANK].
+ARM CBR, Delta, PTK PSD, Microsoft Active Directory, GFI Kerio Control, VPN,
+RDP, Stunnel, ESET ERA/ESMC, Kaspersky, DrWeb, Zabbix, [FineReaderBANK].
 
  - Development of tools for current needs like an ACL explorer [WhoCan] or
 a parser of various [XML] data files, [UFEBS] of the Cental Bank of Russia to
@@ -75,7 +75,7 @@ JS HTA.
 on banking cards: ASP.NET MVC, C#, MS SQL, Excel.
 
  - Design, maintenance and renovation of corporate websites: 
-Amiro.CMS, Apache, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
+Amiro.CMS, Apache, MySQL, HTML5, PHP, CSS3, JavaScript, jQuery, Jekyll.
 
  - DevOps on CI/CD and version control systems: 
 Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
@@ -104,7 +104,7 @@ for an American company: Delphi, graphics libraries.
 October 1996 - November 1997 (1 year 2 months)
 
  - Development of a complex warehouse system to account all orders and to 
-control wares movements, sales, reports: Excel VBA.
+control wares movements, sales, reports: [Excel VBA].
  
 ### Software Engineer at [ZAO «City Invest Bank»]
 
@@ -161,7 +161,7 @@ at [St.Petersburg State University of Aerospace Instrumentation].
 ## Languages
 
  - Russian (native proficiency)
- - English (I read professional literature)
+ - English (I read professional literature, write, small talking)
  - Italiano (elementary proficiency)
 
 ---

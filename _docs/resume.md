@@ -71,7 +71,7 @@ C#, NET, Net Framework, WinForms, WPF, Razor, PowerShell, console.
 ASP.NET MVC, C#, MS SQL, Excel.
 
  - Сопровождение корпоративных сайтов, доработка модулей: 
-Amiro.CMS, Apache, MySQL, HTML, PHP, CSS, JavaScript, jQuery.
+Amiro.CMS, Apache, MySQL, HTML5, PHP, CSS3, JavaScript, jQuery, Jekyll.
 
  - DevOps операции по CI/CD и системы контроля версий: 
 Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
@@ -102,7 +102,7 @@ Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
 Октябрь 1996 - Ноябрь 1997 (1 год 2 месяца)
  
  - Разработка системы полного комплексного учета движения заказов и
-товаров, их реализации и отчетности на Excel VBA.
+товаров, их реализации и отчетности на [Excel VBA].
  
 ### Инженер-программист, [ЗАО «Сити Инвест Банк»]
 

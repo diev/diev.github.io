@@ -89,7 +89,7 @@ load indicator: C#.
 
 So-development of a set of lightweight HTA utilities to browse data with the 
 PTK-PSD system of the Central Bank of Russia, to monitor the flow of parcels 
-and reports, etc.: HTA.
+and reports, etc.: JS HTA.
 
 2010 - Present
 
@@ -97,7 +97,7 @@ and reports, etc.: HTA.
 
 So-development of a set of lightweight HTA utilities to exchange data with 
 the SVK system of the Cental Bank of Russia, to monitor the flow of parcels 
-and reports, etc.: HTA.
+and reports, etc.: JS HTA.
 
 2010 - Present
 
@@ -112,12 +112,12 @@ banking cards: ASP.NET, C#, SQL.
 
 Development, maintenance and renovation of corporate websites
 (i.e. [cibank.ru] and [this]):
-Amiro.CMS, HTML5, PHP, CSS3, Javascript, jQuery.
+Amiro.CMS, Apache, HTML5, PHP, CSS3, Javascript, jQuery.
 
 ## Automatization, B2B, ETL
 
 Development of various software modules to automate bank data flows: 
-C#, VBA, Delphi, XML, DBF, CSV, scripting, etc.
+C#, [Excel VBA], Delphi, Python, JSON, XML, DBF, CSV, scripting, etc.
 
 ## Migration to BSS BS-Client
 
@@ -129,7 +129,7 @@ all corporate customers.
 
 ## Remote Banking
 
-Retail Solution for Remote Banking: Excel + VBA + PGP + SMail.
+Retail Solution for Remote Banking: [Excel VBA] + PGP + SMail.
 
 1998 - 2007
 
@@ -143,7 +143,7 @@ Delphi, graphics libraries.
 ## Warehouse Accounting System
 
 Development of a complex software system to account all orders and to control 
-wares movements, sales, reports: Excel, VBA.
+wares movements, sales, reports: [Excel VBA].
 
 1996 - 1997
 
@@ -191,5 +191,6 @@ into mainframes: C, Fortran.
 [ICRS-NBKI-Request]: /ICRS-NBKI-Request
 [PTK-PSD Browser]: /PTK-PSD-Browser-hta
 [SVK Transport]: /SVK-Transport-hta
+[Excel VBA]: /Excel-VBA-Collection
 [cibank.ru]: //cibank.ru/ "City Invest Bank"
 [this]: /
