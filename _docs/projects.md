@@ -13,7 +13,7 @@
 ## [WhoCan]
 
 Наглядный просмотр для руководства, кто имеет какой доступ к сетевым
-ресурсам, и экспорт списков в Excel для проверяющих: C#.
+ресурсам, и экспорт списков в Excel для проверяющих: C#, WPF.
 
 2020 - по настоящее время
 
@@ -21,7 +21,7 @@
 
 Заменяет каждый `Параметр[:Значение:Примечание:RegExp]` в файле шаблона
 (XML или другом) в наглядной сетке с опциональной проверкой введенных полей
-на соответствие прилагаемям регулярным выражениям: C#.
+на соответствие прилагаемям регулярным выражениям: C#, WinForms.
 
 2024 - по настоящее время
 
@@ -36,7 +36,7 @@
 
 Формирование с помощью XSLT подтверждения на получение файла XML из
 Адаптера СМЭВ для отправки ответного XML обратно + формирование печатного
-бланка HTML/TEXT: C#.
+бланка HTML/TEXT: C#, XSLT.
 
 2023 - по настоящее время
 
@@ -87,23 +87,16 @@ FTPS сервера: C#.
 
 2021 - по настоящее время
 
-## [WhoCan]
-
-Наглядный просмотр для руководства, кто имеет какой доступ к сетевым ресурсам,
-и экспорт списков в Excel для проверяющих: C#, WPF.
-
-2020 - по настоящее время
-
 ## [PTK-PSD Browser]
 
-Наглядный просмотр и работа с архивом посылок ПТК ПСД Банка России: HTA.
+Наглядный просмотр и работа с архивом посылок ПТК ПСД Банка России: JS HTA.
 
 2010 - по настоящее время
 
 ## [SVK Transport]
 
 Прием и отправка платежной XML информации, бинарных информационных и файлов 
-статистики по HTTP протоколу в СВК Банка России: HTA.
+статистики по HTTP протоколу в СВК Банка России: JS HTA.
 
 2010 - по настоящее время
 
@@ -111,7 +104,7 @@ FTPS сервера: C#.
 
 Информационная система для получения информации о состоянии банковских 
 карточек и счетов через Интернет, а также система администрирования в 
-Интранет: ASP.NET, C#, SQL.
+Интранет: ASP.NET MVC, C#, SQL.
 
 2008 - 2015
 
@@ -192,20 +185,19 @@ Visual Basic, Clipper.
 
 [резюме]: /resume
 [github]: /github
-[WhoCan]: /WhoCan
-[XML]: /ReplForms
-[УФЭБС]: /Ufebs-N
-[СМЭВ]: /SMEV-Works
-[SWIFT]: /Ufebs-Works
-[Portal5]: /Portal5-Works
-[FinCERT]: /FinCERT-Client
-[НБКИ]: /Api5704
-[Pop3cli]: /Pop3cli
-[FTPSReportsDownloader]: /[FTPSReportsDownloader]
-[WebFileMirror]: /WebFileMirror
-[ICRS-NBKI-Request]: /ICRS-NBKI-Request
-[WhoCan]: /WhoCan
-[PTK-PSD Browser]: /PTK-PSD-Browser-hta
-[SVK Transport]: /SVK-Transport-hta
-[cibank.ru]: https://cibank.ru/ "АО «Сити Инвест Банк»"
+[WhoCan]: //github.com/diev/WhoCan
+[XML]: //github.com/diev/ReplForms
+[УФЭБС]: //github.com/diev/Ufebs-N
+[СМЭВ]: //github.com/diev/SMEV-Works
+[SWIFT]: //github.com/diev/Ufebs-Works
+[Portal5]: //github.com/diev/Portal5-Works
+[FinCERT]: //github.com/diev/FinCERT-Client
+[НБКИ]: //github.com/diev/Api5704
+[Pop3cli]: //github.com/diev/Pop3cli
+[FTPSReportsDownloader]: //github.com/diev/FTPSReportsDownloader
+[WebFileMirror]: //github.com/diev/WebFileMirror
+[ICRS-NBKI-Request]: //github.com/diev/ICRS-NBKI-Request
+[PTK-PSD Browser]: //github.com/diev/PTK-PSD-Browser-hta
+[SVK Transport]: //github.com/diev/SVK-Transport-hta
+[cibank.ru]: //cibank.ru/ "АО «Сити Инвест Банк»"
 [этот]: /

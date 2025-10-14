@@ -12,14 +12,14 @@ A more full list of projects collected automatically is on [github].
 
 ## [WhoCan]
 
-Display ACL rights and export lists to Excel: C#.
+Display ACL rights and export lists to Excel: C#, WPF.
 
 2020 - Present
 
 ## [XML]
 
 Replaces every `key[;value;remark;regexp]` in a template XML file with
-DataGridView inserted and validated values: C#.
+DataGridView inserted and validated values: C#, WinForms.
 
 2024 - Present
 
@@ -33,7 +33,7 @@ KBR-N: C#.
 ## [SMEV]
 
 XSL Transformation of an incoming Request.xml into its response XML +
-printable HTML/TEXT files: C#.
+printable HTML/TEXT files: C#, XSLT.
 
 2023 - Present
 
@@ -84,12 +84,6 @@ Obtaining XML data when accessing the NBKI API for calculating the debt
 load indicator: C#.
 
 2021 - Present
-
-## [WhoCan]
-
-Display ACL rights and export lists to Excel: C#, WPF.
-
-2020 - Present
 
 ## [PTK-PSD Browser]
 
@@ -183,20 +177,19 @@ into mainframes: C, Fortran.
 
 [resume]: /en/resume
 [github]: /en/github
-[WhoCan]: /WhoCan
-[XML]: /ReplForms
-[UFEBS]: /Ufebs-N
-[SMEV]: /SMEV-Works
-[SWIFT]: /Ufebs-Works
-[Portal5]: /Portal5-Works
-[FinCERT]: /FinCERT-Client
-[NBKI]: /Api5704
-[Pop3cli]: /Pop3cli
-[FTPSReportsDownloader]: /[FTPSReportsDownloader]
-[WebFileMirror]: /WebFileMirror
-[ICRS-NBKI-Request]: /ICRS-NBKI-Request
-[WhoCan]: /WhoCan
-[PTK-PSD Browser]: /PTK-PSD-Browser-hta
-[SVK Transport]: /SVK-Transport-hta
-[cibank.ru]: https://cibank.ru/ "City Invest Bank"
+[WhoCan]: //github.com/diev/WhoCan
+[XML]: //github.com/diev/ReplForms
+[UFEBS]: //github.com/diev/Ufebs-N
+[SMEV]: //github.com/diev/SMEV-Works
+[SWIFT]: //github.com/diev/Ufebs-Works
+[Portal5]: //github.com/diev/Portal5-Works
+[FinCERT]: //github.com/diev/FinCERT-Client
+[NBKI]: //github.com/diev/Api5704
+[Pop3cli]: //github.com/diev/Pop3cli
+[FTPSReportsDownloader]: //github.com/diev/FTPSReportsDownloader
+[WebFileMirror]: //github.com/diev/WebFileMirror
+[ICRS-NBKI-Request]: //github.com/diev/ICRS-NBKI-Request
+[PTK-PSD Browser]: //github.com/diev/PTK-PSD-Browser-hta
+[SVK Transport]: //github.com/diev/SVK-Transport-hta
+[cibank.ru]: //cibank.ru/ "City Invest Bank"
 [this]: /
