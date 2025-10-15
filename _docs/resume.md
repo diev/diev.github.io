@@ -10,13 +10,14 @@
  - [Академия АйТи], 2015
  - [СПбГУАП] (ЛИАП), 2001
 
-Сайт: [dievdo.ru](/), [ВК], [GitHub], [GitFlic], [GitVerse]  
+Сайт: [https://dievdo.ru](/), [ВК], [GitHub], [GitFlic], [GitVerse]  
 E-mail: [{{ site.data.contacts.Email.name }}]({{ site.data.contacts.Email.url }})
 
 ---
 
-## Начальник службы информационной безопасности, [АО «Сити Инвест Банк»]
+## Начальник службы информационной безопасности
 
+[АО «Сити Инвест Банк»]  
 Июнь 2008 - по настоящее время (более 17 лет)
 
 Обеспечение ИБ банка в соответствии с требованиями регуляторов:
@@ -58,8 +59,9 @@ Amiro.CMS, Apache, MySQL, HTML5, PHP, CSS3, JavaScript, jQuery, Jekyll.
 DevOps операции по CI/CD и системы контроля версий: 
 Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
 
-## Начальник управления автоматизации, [ЗАО «Сити Инвест Банк»]
+## Начальник управления автоматизации
 
+[ЗАО «Сити Инвест Банк»]  
 Ноябрь 1998 - Май 2008 (более 9 лет)
 
 Управление проектами, составление бюджета, планирование, приобретение
@@ -109,18 +111,18 @@ Git, Mercurial, [GitHub], [GitFlic], [GitVerse], Bitbucket, AppVeyor.
  - Итальянский - элементарные навыки (хобби).
 
 
-[АО «Сити Инвест Банк»]: //cibank.ru/
-[ЗАО «Сити Инвест Банк»]: //cibank.ru/
-[Академия АйТи]: //www.academy.it.ru/
-[Академия информационых систем]: //infosystems.ru/
-[СПбГУАП]: //guap.ru/
-[Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения]: //guap.ru/
+[АО «Сити Инвест Банк»]: https://cibank.ru/
+[ЗАО «Сити Инвест Банк»]: https://cibank.ru/
+[Академия АйТи]: https://www.academy.it.ru/
+[Академия информационых систем]: https://infosystems.ru/
+[СПбГУАП]: https://guap.ru/
+[Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения]: https://guap.ru/
 
-[ВК]: //vk.com/dievdo
-[ТГ]: //t.me/dievdo
-[GitHub]: //github.com/diev
-[GitFlic]: //gitflic.ru/user/diev
-[GitVerse]: //gitverse.ru/diev
+[ВК]: https://vk.com/dievdo
+[ТГ]: https://t.me/dievdo
+[GitHub]: https://github.com/diev
+[GitFlic]: https://gitflic.ru/user/diev
+[GitVerse]: https://gitverse.ru/diev
 [Проекты]: /projects "Выполненные проекты ПО"
 [WhoCan]: /WhoCan
 [XML]: //github.com/diev/ReplForms
